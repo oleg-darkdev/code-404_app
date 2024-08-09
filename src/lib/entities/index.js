@@ -1,4 +1,4 @@
-// import FactSheet from './ui/landing/FactSheet.svelte';
+import CodeCard from './ui/landing/CodeCard.svelte';
 
 
-// export { FactSheet };
+export { CodeCard };

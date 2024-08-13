@@ -1,5 +1,4 @@
 <script>
-	/ import {@
  //  import {  } from '$lib/entities';
 </script>
 

@@ -1,16 +1,20 @@
 <script>
-	import { ftpCodesList} from '$lib/shared';
-	import { CodesCardsRow, } from '$lib/widgets';
-  // import {  } from '$lib/entities';
+	import { CodesCardsRow} from '$lib/widgets';
+ //  import {  } from '$lib/entities';
+  export let data;
 </script>
 
 
 <svelte:head>
-  <title>CODE 404</title>
+  <title>CODE 404 - FTP</title>
 </svelte:head>
 
-{#each ftpCodesList.allCodes as ftpCodesCategory}
+
+{#each data.allCodes as codesCategory}
   <section class="section">
-    <CodesCardsRow category={ftpCodesCategory}/>
+    <CodesCardsRow category={codesCategory}/>
   </section>
 {/each}
+
+
+

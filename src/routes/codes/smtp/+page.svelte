@@ -1,17 +1,20 @@
 <script>
-	import { smtpCodesList } from '$lib/shared';
-	import { CodesCardsRow, } from '$lib/widgets';
-  // import {  } from '$lib/entities';
+	import { CodesCardsRow} from '$lib/widgets';
+ //  import {  } from '$lib/entities';
+  export let data;
 </script>
 
 
 <svelte:head>
-  <title>CODE 404</title>
+  <title>CODE 404 - SMTP</title>
 </svelte:head>
 
 
-{#each smtpCodesList.allCodes as smtpCodesCategory}
+{#each data.allCodes as codesCategory}
   <section class="section">
-    <CodesCardsRow category={smtpCodesCategory}/>
+    <CodesCardsRow category={codesCategory}/>
   </section>
 {/each}
+
+
+

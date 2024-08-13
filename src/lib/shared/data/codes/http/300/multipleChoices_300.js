@@ -1,6 +1,6 @@
 const data = {
   title: 'Multiple Choices',
-  img: '/images/codes/http/300/desc_300.svg',
+  img: '/images/codes/http/300/back_300.svg',
   code: 300,
   complexity: 'base',
 

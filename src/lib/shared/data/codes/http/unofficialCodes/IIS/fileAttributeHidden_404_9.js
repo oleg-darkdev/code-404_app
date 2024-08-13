@@ -1,6 +1,6 @@
 const data = {
   title: 'File attribute hidden.',
-  img: '/images/codes/http/iss/desc_404_9.svg',
+  img: '/images/codes/http/iss/back_404_9.svg',
   code: 404.9,
   complexity: 'base',
 

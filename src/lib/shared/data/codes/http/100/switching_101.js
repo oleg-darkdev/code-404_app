@@ -1,6 +1,6 @@
 const data = {
   title: 'Switching Protocols',
-    img: '/images/codes/http/100/desc_101.svg',
+    img: '/images/codes/http/100/back_101.svg',
   code: 101,
     complexity: 'base',
 

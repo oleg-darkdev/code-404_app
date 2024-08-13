@@ -1,6 +1,6 @@
 const data = {
   title: 'Not logged in.',
-  img: '/images/codes/ftp/desc_530.svg',
+  img: '/images/codes/ftp/back_530.svg',
   code: 530,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Query string sequence denied.',
-  img: '/images/codes/http/iss/desc_404_18.svg',
+  img: '/images/codes/http/iss/back_404_18.svg',
   code: 404.18,
   complexity: 'base',
 

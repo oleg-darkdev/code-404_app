@@ -1,6 +1,6 @@
 const data = {
   title: 'Not Implemented',
-  img: '/images/codes/http/500/desc_501.svg',
+  img: '/images/codes/http/500/back_501.svg',
   code: 501,
   complexity: 'base',
 

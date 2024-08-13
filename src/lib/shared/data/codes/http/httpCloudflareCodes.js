@@ -27,7 +27,7 @@ const data = {
       invalidSSLCertificate_526,
       error_530,
     ],
-    data: [
+    allCodes: [
       webServerReturnedUnknownError_520,
       webServerDown_521,
       connectionTimedOut_522,

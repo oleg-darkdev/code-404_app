@@ -1,6 +1,6 @@
 const data = {
   title: 'Too Many Requests',
-  img: '/images/codes/http/400/desc_429.svg',
+  img: '/images/codes/http/400/back_429.svg',
   code: 429,
   complexity: 'base',
 

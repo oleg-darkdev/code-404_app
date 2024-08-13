@@ -1,6 +1,6 @@
 const data = {
   title: 'OK',
-  img: '/images/codes/http/200/desc_200.svg',
+  img: '/images/codes/http/200/back_200.svg',
   code: 200,
   shortDesc: 'Standard response for successful HTTP requests.',
     complexity: 'base',

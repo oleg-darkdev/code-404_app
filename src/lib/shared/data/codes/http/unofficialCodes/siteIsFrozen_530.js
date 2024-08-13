@@ -1,6 +1,6 @@
 const data = {
   title: 'Site is frozen',
-  img: '/images/codes/http/unofficial/desk_depr_530.svg',
+  img: '/images/codes/http/unofficial/back_depr_530.svg',
   code: 530,
   complexity: 'Pantheon Systems',
 

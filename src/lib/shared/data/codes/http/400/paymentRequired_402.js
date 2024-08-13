@@ -1,6 +1,6 @@
 const data = {
   title: 'Payment Required',
-  img: '/images/codes/http/400/desc_402.svg',
+  img: '/images/codes/http/400/back_402.svg',
   code: 402,
   complexity: 'base',
 

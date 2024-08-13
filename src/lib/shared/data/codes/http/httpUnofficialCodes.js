@@ -31,7 +31,7 @@ const data = {
     networkConnectTimeoutError_599,
     tokenRequired_499,
     ],
-    data: [
+    allCodes: [
       thisIsFine_218,
       pageExpired_419,
       methodFailure_420,

@@ -1,6 +1,6 @@
 const data = {
   title: 'Insufficient Storage',
-  img: '/images/codes/http/500/desc_507.svg',
+  img: '/images/codes/http/500/back_507.svg',
   code: 507,
   complexity: 'base',
 

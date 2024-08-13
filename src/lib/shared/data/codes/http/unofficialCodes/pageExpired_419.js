@@ -1,6 +1,6 @@
 const data = {
   title: 'Page Expired (Laravel Framework)',
-  img: '/images/codes/http/unofficial/desk_depr_419.svg',
+  img: '/images/codes/http/unofficial/back_depr_419.svg',
   code: 419,
   complexity: 'Laravel',
 

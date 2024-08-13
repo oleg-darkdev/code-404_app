@@ -1,6 +1,6 @@
 const data = {
   title: 'URI Too Long',
-  img: '/images/codes/http/400/desc_414.svg',
+  img: '/images/codes/http/400/back_414.svg',
   code: 414,
   complexity: 'base',
 

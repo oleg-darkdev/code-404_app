@@ -1,6 +1,6 @@
 const data = {
   title: 'Client Closed Request',
-  img: '/images/codes/http/nginx/deck_nginx_499.svg',
+  img: '/images/codes/http/nginx/back_nginx_499.svg',
   code: 499,
   complexity: 'Nginx',
 

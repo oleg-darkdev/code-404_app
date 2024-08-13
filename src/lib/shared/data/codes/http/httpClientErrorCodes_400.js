@@ -27,7 +27,6 @@ import preconditionRequired_428 from './400/preconditionRequired_428'
 import tooManyRequests_429 from './400/tooManyRequests_429'
 import requestHeaderFieldsTooLarge_431 from './400/requestHeaderFieldsTooLarge_431'
 import unavailableForLegalReasons_451 from './400/unavailableForLegalReasons_451'
-// import continue_100 from './400/continue_100'
 
 
 const data = {
@@ -48,7 +47,7 @@ const data = {
       requestHeaderFieldsTooLarge_431,
       unavailableForLegalReasons_451,
     ],
-    data: [
+    allCodes: [
       badRequest_400,
       unauthorized_401,
       paymentRequired_402,

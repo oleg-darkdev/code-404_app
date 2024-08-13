@@ -1,6 +1,6 @@
 const data = {
   title: 'Locked ',
-  img: '/images/codes/http/400/desc_423.svg',
+  img: '/images/codes/http/400/back_423.svg',
   code: 423,
   complexity: 'base',
 

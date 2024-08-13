@@ -1,6 +1,6 @@
 const data = {
   title: 'Invalid Token (Esri)',
-  img: '/images/codes/http/unofficial/desk_depr_498.svg',
+  img: '/images/codes/http/unofficial/back_depr_498.svg',
   code: 498,
   complexity: 'Esri',
 

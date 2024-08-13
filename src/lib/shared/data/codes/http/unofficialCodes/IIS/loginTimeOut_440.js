@@ -1,6 +1,6 @@
 const data = {
   title: 'Login Time-out',
-  img: '/images/codes/http/iss/deck_iss_440.svg',
+  img: '/images/codes/http/iss/back_iss_440.svg',
   code: 440,
   complexity: 'Microsoft',
 

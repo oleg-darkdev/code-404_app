@@ -1,6 +1,6 @@
 const data = {
   title: `I'm a teapot`,
-  img: '/images/codes/http/400/desc_418.svg',
+  img: '/images/codes/http/400/back_418.svg',
   code: 418,
   complexity: 'base',
 

@@ -11,12 +11,12 @@ import cannotVerifyTheUser_252 from './200/cannotVerifyTheUser_252.js'
 
 
 const data = {
-  title: '2yz: Positive completion codes.',
+  title: '2xx: Positive completion codes.',
   brandColour: '',
   heartClass: 'heart-200',
   logo: '/images/logos/200.svg',
-  link: '/codes/smtp/2yz',
-  id: '2yz',
+  link: '/codes/smtp/2xx',
+  id: '2xx',
   shortDesc: 'The requested action has been successfully completed.',
   desc: [
     '',
@@ -27,7 +27,7 @@ const data = {
     quit_240,
     cannotVerifyTheUser_252
   ],
-  data: [
+  allCodes: [
     systemStatusSystemHelpReply_211,
     helpMessage_214,
     serviceReady_220,

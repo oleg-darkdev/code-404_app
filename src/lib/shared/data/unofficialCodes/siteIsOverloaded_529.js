@@ -1,6 +1,6 @@
 const data = {
   title: 'Site is overloaded',
-  img: '/images/codes/http/unofficial/desk_depr_529.svg',
+  img: '/images/codes/http/unofficial/back_depr_529.svg',
   code: 529,
   complexity: 'Qualys',
 

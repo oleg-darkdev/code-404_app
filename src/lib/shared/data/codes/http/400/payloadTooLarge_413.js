@@ -1,6 +1,6 @@
 const data = {
   title: 'Payload Too Large',
-  img: '/images/codes/http/400/desc_413.svg',
+  img: '/images/codes/http/400/back_413.svg',
   code: 413,
   complexity: 'base',
 

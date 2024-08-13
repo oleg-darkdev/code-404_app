@@ -23,7 +23,7 @@ const data = {
       switching_101,
       processing_102,
     ],
-    data: [
+    allCodes: [
       continue_100,
       switching_101,
       processing_102,

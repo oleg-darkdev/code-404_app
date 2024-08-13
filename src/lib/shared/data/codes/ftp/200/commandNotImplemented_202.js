@@ -1,6 +1,6 @@
 const data = {
   title: 'Command not implemented, superfluous at this site. ',
-  img: '/images/codes/ftp/desc_202.svg',
+  img: '/images/codes/ftp/back_202.svg',
   code: 202,
   complexity: 'base',
 

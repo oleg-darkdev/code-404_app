@@ -1,6 +1,6 @@
 const data = {
   title: 'Internal Server Error',
-  img: '/images/codes/http/500/desc_500.svg',
+  img: '/images/codes/http/500/back_500.svg',
   code: 500,
   complexity: 'base',
 

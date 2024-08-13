@@ -1,6 +1,6 @@
 const data = {
   title: 'Response is Stale',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_110.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_110.svg',
   code: 110,
   complexity: 'obsoleted',
 

@@ -20,7 +20,7 @@ const data = {
     confidentialityintegrityProtectedReply_632,
     confidentialityProtectedReply_633,
   ],
-  data: [
+  allCodes: [
     IntegrityProtectedReply_631,
     confidentialityintegrityProtectedReply_632,
     confidentialityProtectedReply_633,

@@ -1,6 +1,6 @@
 const data = {
   title: 'No Response',
-  img: '/images/codes/http/nginx/deck_nginx_444.svg',
+  img: '/images/codes/http/nginx/back_nginx_444.svg',
   code: 444,
   complexity: 'Nginx',
 

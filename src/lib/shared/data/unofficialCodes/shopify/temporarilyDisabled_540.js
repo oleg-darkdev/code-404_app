@@ -1,6 +1,6 @@
 const data = {
   title: 'Temporarily Disabled (Shopify)',
-  img: '/images/codes/http/spotify/deck_spotify_540.svg',
+  img: '/images/codes/http/ify/back_shopify_540.svg',
   code: 540,
   complexity: 'Shopify',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Denied by request filtering configuration.',
-  img: '/images/codes/http/iss/desc_404_5.svg',
+  img: '/images/codes/http/iss/back_404_5.svg',
   code: 404.5,
   complexity: 'base',
 

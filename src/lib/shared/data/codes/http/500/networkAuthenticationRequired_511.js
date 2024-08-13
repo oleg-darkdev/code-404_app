@@ -1,6 +1,6 @@
 const data = {
   title: 'Network Authentication Required',
-  img: '/images/codes/http/500/desc_511.svg',
+  img: '/images/codes/http/500/back_511.svg',
   code: 511,
   complexity: 'base',
 

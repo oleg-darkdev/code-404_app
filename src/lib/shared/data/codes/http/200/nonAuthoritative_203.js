@@ -1,6 +1,6 @@
 const data = {
   title: 'Non-Authoritative Information (since HTTP/1.1)',
-  img: '/images/codes/http/200/desc_203.svg',
+  img: '/images/codes/http/200/back_203.svg',
   code: 203,
     complexity: 'base',
 

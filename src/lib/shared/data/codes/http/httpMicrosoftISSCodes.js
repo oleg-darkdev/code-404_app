@@ -2,7 +2,7 @@ import loginTimeOut_440 from './unofficialCodes/IIS/loginTimeOut_440'
 import retryWith_449 from './unofficialCodes/IIS/retryWith_449'
 import redirect_451 from './unofficialCodes/IIS/redirect_451'
 
-// 404 sub types
+//  404 sub types
 import notfound_404_0 from './unofficialCodes/IIS/notfound_404_0'
 import siteNotFound_404_1 from './unofficialCodes/IIS/siteNotFound_404_1'
 import iSAPIorCGIRestriction_404_2 from './unofficialCodes/IIS/iSAPIorCGIRestriction_404_2'
@@ -43,7 +43,7 @@ const data = {
       retryWith_449,
       redirect_451,
     ],
-    data: [
+    allCodes: [
       loginTimeOut_440,
       retryWith_449,
       redirect_451,

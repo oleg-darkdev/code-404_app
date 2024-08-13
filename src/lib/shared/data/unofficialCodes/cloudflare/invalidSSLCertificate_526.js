@@ -1,6 +1,6 @@
 const data = {
   title: 'Invalid SSL Certificate',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_526.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_526.svg',
   code: 526,
   complexity: 'Cloudflare',
 

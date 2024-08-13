@@ -1,6 +1,6 @@
 const data = {
   title: 'Request contains double escape sequence.',
-  img: '/images/codes/http/iss/desc_404_11.svg',
+  img: '/images/codes/http/iss/back_404_11.svg',
   code: 404.11,
   complexity: 'base',
 

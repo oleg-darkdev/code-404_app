@@ -1,6 +1,6 @@
 const data = {
   title: 'Data connection open.',
-  img: '/images/codes/ftp/desc_225.svg',
+  img: '/images/codes/ftp/back_225.svg',
   code: 225,
   complexity: 'base',
 

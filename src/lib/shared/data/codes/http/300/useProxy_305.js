@@ -1,6 +1,6 @@
 const data = {
   title: 'Use Proxy',
-  img: '/images/codes/http/300/desc_305.svg',
+  img: '/images/codes/http/300/back_305.svg',
   code: 305,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Encryption required.',
-  img: '/images/codes/smtp/desc_538.svg',
+  img: '/images/codes/smtp/back_538.svg',
   code: 538,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Created',
-  img: '/images/codes/http/200/desc_201.svg',
+  img: '/images/codes/http/200/back_201.svg',
   code: 201,
   complexity: 'base',
 

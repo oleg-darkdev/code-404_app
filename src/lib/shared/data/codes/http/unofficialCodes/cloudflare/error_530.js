@@ -1,6 +1,6 @@
 const data = {
   title: 'Error 530',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_530.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_530.svg',
   code: 530,
   complexity: 'Cloudflare',
 

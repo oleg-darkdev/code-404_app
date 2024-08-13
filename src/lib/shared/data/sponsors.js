@@ -1,33 +1,33 @@
 const sponsors = [
   {
-    title: '',
-    link: '/',
+    title: 'Apache',
+    link: 'https:/apache.org/',
     logo: '/images/sponsors/apache.svg'
   },
   {
-    title: '',
-    link: '/',
+    title: 'AWS',
+    link: 'https:/aws.amazon.com/',
     logo: '/images/sponsors/aws.svg'
   },
   {
-    title: '',
-    link: '/',
+    title: 'Cloudflare',
+    link: 'https:/www.cloudflare.com/',
     logo: '/images/sponsors/cloudflare.svg'
   },
   {
-    title: '',
-    link: '/',
+    title: 'Microsoft ISS',
+    link: 'https:/www.iis.net/',
     logo: '/images/sponsors/iss.svg'
   },
   {
-    title: '',
-    link: '/',
+    title: 'NGINX',
+    link: 'https:/nginx.org/en/',
     logo: '/images/sponsors/nginx.svg'
   },
   {
-    title: '',
-    link: '/',
-    logo: '/images/sponsors/shopify.svg'
+    title: 'Shopify',
+    link: 'https:/www.shopify.com/',
+    logo: '/images/sponsors/ify.svg'
   },
 
 

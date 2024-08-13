@@ -1,6 +1,6 @@
 const data = {
   title: 'Denied by filtering rule.',
-  img: '/images/codes/http/iss/desc_404_19.svg',
+  img: '/images/codes/http/iss/back_404_19.svg',
   code: 404.19,
   complexity: 'base',
 

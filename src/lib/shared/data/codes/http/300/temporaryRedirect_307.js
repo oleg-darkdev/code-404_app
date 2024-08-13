@@ -1,6 +1,6 @@
 const data = {
   title: 'Temporary Redirect',
-  img: '/images/codes/http/300/desc_307.svg',
+  img: '/images/codes/http/300/back_307.svg',
   code: 307,
   complexity: 'base',
 

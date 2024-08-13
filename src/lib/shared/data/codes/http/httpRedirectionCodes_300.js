@@ -29,7 +29,7 @@ const data = {
       permanentRedirect_308,
 
     ],
-    data: [
+    allCodes: [
       multipleChoices_300,
       movedPermanently_301,
       found_302,

@@ -1,6 +1,6 @@
 const data = {
   title: 'A Timeout Occurred',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_524.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_524.svg',
   code: 524,
   complexity: 'Cloudflare',
 

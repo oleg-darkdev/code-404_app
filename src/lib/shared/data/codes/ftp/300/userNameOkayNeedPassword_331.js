@@ -1,6 +1,6 @@
 const data = {
   title: 'User name okay, need password.',
-  img: '/images/codes/ftp/desc_331.svg',
+  img: '/images/codes/ftp/back_331.svg',
   code: 331,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Unauthorized',
-  img: '/images/codes/http/aws/desc_aws_561.svg',
+  img: '/images/codes/http/aws/back_aws_561.svg',
   code: 561,
   complexity: 'AWS',
 

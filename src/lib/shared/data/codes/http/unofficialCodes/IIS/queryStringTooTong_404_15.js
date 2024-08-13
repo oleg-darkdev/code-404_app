@@ -1,6 +1,6 @@
 const data = {
   title: 'Query string too long.',
-  img: '/images/codes/http/iss/desc_404_15.svg',
+  img: '/images/codes/http/iss/back_404_15.svg',
   code: 404.15,
   complexity: 'base',
 

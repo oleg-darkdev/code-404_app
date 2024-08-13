@@ -1,6 +1,6 @@
 const data = {
   title: 'Method Not Allowed',
-  img: '/images/codes/http/400/desc_405.svg',
+  img: '/images/codes/http/400/back_405.svg',
   code: 405,
   complexity: 'base',
 

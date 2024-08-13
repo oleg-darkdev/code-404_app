@@ -32,7 +32,7 @@ id: '5xx',
       requestedFileActionAborted_552,
       requestedActionNotTaken_553,
     ],
-    data: [
+    dallCodesata: [
       syntaxErrorInParametersOrArguments_501,
       commandNotImplemented_502,
       badSequenceOfCommands_503,

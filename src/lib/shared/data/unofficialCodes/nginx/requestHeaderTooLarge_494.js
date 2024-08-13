@@ -1,6 +1,6 @@
 const data = {
   title: 'Request header too large',
-  img: '/images/codes/http/nginx/deck_nginx_494.svg',
+  img: '/images/codes/http/nginx/back_nginx_494.svg',
   code: 494,
   complexity: 'Nginx',
 

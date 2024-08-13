@@ -1,6 +1,6 @@
 const data = {
   title: 'MIME type restriction.',
-  img: '/images/codes/http/iss/desc_404_3.svg',
+  img: '/images/codes/http/iss/back_404_3.svg',
   code: 404.3,
   complexity: 'base',
 

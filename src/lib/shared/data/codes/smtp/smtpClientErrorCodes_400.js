@@ -7,7 +7,7 @@ import temporaryAuthenticationFailure_454 from './400/temporaryAuthenticationFai
 import serverUnableAccommodateParameters_455 from './400/serverUnableAccommodateParameters_455'
 
 const data = {
-  title: '4yz: Transient negative completion codes.',
+  title: '4xx: Transient negative completion codes.',
     brandColour: '',
   heartClass: 'heart-400',
   link: '/codes/smtp/4xx',
@@ -24,7 +24,7 @@ const data = {
       requestedMailActionNotTaken_450,
       serverUnableAccommodateParameters_455,
     ],
-    data: [
+    allCodes: [
       serviceNotAvailable_421,
       passwordTransitionNeeded_432,
       requestedMailActionNotTaken_450,

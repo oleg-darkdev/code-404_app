@@ -1,6 +1,6 @@
 const data = {
   title: 'ISAPI or CGI restriction.',
-  img: '/images/codes/http/iss/desc_404_2.svg',
+  img: '/images/codes/http/iss/back_404_2.svg',
   code: 404.2,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Requested mail action aborted.',
-  img: '/images/codes/smtp/desc_552.svg',
+  img: '/images/codes/smtp/back_552.svg',
   code: 552,
   complexity: 'base',
 

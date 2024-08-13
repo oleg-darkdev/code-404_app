@@ -1,6 +1,6 @@
 const data = {
   title: 'File status okay.',
-  img: '/images/codes/ftp/desc_150.svg',
+  img: '/images/codes/ftp/back_150.svg',
   code: 150,
   complexity: 'base',
 

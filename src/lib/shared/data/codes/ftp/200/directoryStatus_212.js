@@ -1,6 +1,6 @@
 const data = {
   title: 'Directory status.',
-  img: '/images/codes/ftp/desc_212.svg',
+  img: '/images/codes/ftp/back_212.svg',
   code: 212,
   complexity: 'base',
 

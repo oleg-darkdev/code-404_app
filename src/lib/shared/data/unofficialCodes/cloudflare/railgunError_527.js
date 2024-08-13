@@ -1,6 +1,6 @@
 const data = {
   title: 'Railgun Error (obsolete)',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_527.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_527.svg',
   code: 527,
   complexity: 'Cloudflare',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Unprocessable Content',
-  img: '/images/codes/http/400/desc_422.svg',
+  img: '/images/codes/http/400/back_422.svg',
   code: 422,
   complexity: 'base',
 

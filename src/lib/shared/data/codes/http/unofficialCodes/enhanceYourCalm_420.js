@@ -1,6 +1,6 @@
 const data = {
   title: 'Enhance Your Calm (Twitter)',
-  img: '/images/codes/http/unofficial/desk_depr_420_twitter.svg',
+  img: '/images/codes/http/unofficial/back_depr_420_twitter.svg',
   code: 420,
   complexity: 'Twitter',
 

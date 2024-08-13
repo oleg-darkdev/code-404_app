@@ -1,6 +1,6 @@
 const data = {
   title: 'Need account for login.',
-  img: '/images/codes/ftp/desc_332.svg',
+  img: '/images/codes/ftp/back_332.svg',
   code: 332,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'This is fine (Apache HTTP Server).',
-  img: '/images/codes/http/unofficial/desk_depr_218.svg',
+  img: '/images/codes/http/unofficial/back_depr_218.svg',
   code: 218,
   complexity: 'Apache',
 

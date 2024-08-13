@@ -1,6 +1,6 @@
 const data = {
   title: 'Redirect',
-  img: '/images/codes/http/iss/deck_iss_40.svg',
+  img: '/images/codes/http/iss/back_iss_40.svg',
   code: 40,
   complexity: 'Microsoft',
 

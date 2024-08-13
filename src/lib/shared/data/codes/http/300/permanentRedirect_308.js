@@ -1,6 +1,6 @@
 const data = {
   title: 'Permanent Redirect',
-  img: '/images/codes/http/300/desc_308.svg',
+  img: '/images/codes/http/300/back_308.svg',
   code: 308,
   complexity: 'base',
 

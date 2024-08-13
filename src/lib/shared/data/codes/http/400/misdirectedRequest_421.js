@@ -1,6 +1,6 @@
 const data = {
   title: 'Misdirected Request',
-  img: '/images/codes/http/400/desc_421.svg',
+  img: '/images/codes/http/400/back_421.svg',
   code: 421,
   complexity: 'base',
 

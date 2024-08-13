@@ -1,6 +1,6 @@
 const data = {
   title: 'Service Unavailable',
-  img: '/images/codes/http/500/desc_503.svg',
+  img: '/images/codes/http/500/back_503.svg',
   code: 503,
   complexity: 'base',
 

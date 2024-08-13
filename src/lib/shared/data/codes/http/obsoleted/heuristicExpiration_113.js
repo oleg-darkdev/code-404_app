@@ -1,6 +1,6 @@
 const data = {
   title: 'Heuristic Expiration',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_113.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_113.svg',
   code: 113,
   complexity: 'obsoleted',
 

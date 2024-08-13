@@ -1,6 +1,6 @@
 const data = {
   title: '',
-  img: '/images/codes/smtp/desc_300.svg',
+  img: '/images/codes/smtp/back_300.svg',
   code: 300,
   complexity: 'base',
 

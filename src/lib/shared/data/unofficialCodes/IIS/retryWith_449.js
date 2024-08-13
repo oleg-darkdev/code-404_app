@@ -1,6 +1,6 @@
 const data = {
   title: 'Retry With',
-  img: '/images/codes/http/iss/deck_iss_449.svg',
+  img: '/images/codes/http/iss/back_iss_449.svg',
   code: 449,
   complexity: 'Microsoft',
 

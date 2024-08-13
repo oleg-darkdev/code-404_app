@@ -1,6 +1,6 @@
 const data = {
   title: 'Service ready in nnn minutes.',
-  img: '/images/codes/ftp/desc_120.svg',
+  img: '/images/codes/ftp/back_120.svg',
   code: 120,
   complexity: 'base',
 

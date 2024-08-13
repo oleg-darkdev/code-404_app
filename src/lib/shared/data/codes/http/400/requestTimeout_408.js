@@ -1,6 +1,6 @@
 const data = {
   title: 'Request Timeout',
-  img: '/images/codes/http/400/desc_408.svg',
+  img: '/images/codes/http/400/back_408.svg',
   code: 408,
   complexity: 'base',
 

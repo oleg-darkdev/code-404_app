@@ -1,6 +1,6 @@
 const data = {
   title: 'Transaction has failed.',
-  img: '/images/codes/smtp/desc_554.svg',
+  img: '/images/codes/smtp/back_554.svg',
   code: 554,
   complexity: 'base',
 

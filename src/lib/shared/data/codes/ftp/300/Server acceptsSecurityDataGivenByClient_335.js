@@ -1,6 +1,6 @@
 const data = {
   title: 'Server accepts the security data given by the client.',
-  img: '/images/codes/ftp/desc_335.svg',
+  img: '/images/codes/ftp/back_335.svg',
   code: 335,
   complexity: 'base',
 

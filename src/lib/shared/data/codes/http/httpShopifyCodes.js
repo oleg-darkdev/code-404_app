@@ -9,8 +9,8 @@ const data = {
   title: 'Shopify codes.',
     brandColour: '#7f2986',
   heartClass: 'heart-dektop',
-    link: '/codes/http/shopify',
-  logo: '/images/logos/shopify.svg',
+    link: '/codes/http/ify',
+  logo: '/images/logos/ify.svg',
     id: 'shopify',
 
     shortDesc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
@@ -23,7 +23,7 @@ const data = {
       unexpectedToken_783,
       temporarilyDisabled_540
     ],
-    data: [
+    allCodes: [
       originDNSError_530,
       requestHeaderFieldsTooLarge_430,
       shopifySecurityRejection_430,

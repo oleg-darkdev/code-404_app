@@ -22,14 +22,13 @@ const data = {
   desc: [
     '',
   ],
-  link: '2xx',
   promo: [
       ok_200,
     created_201,
       alreadyReported_208,
     iMUsed_226
   ],
-  data: [
+  allCodes: [
     ok_200,
     created_201,
     accepted_202,

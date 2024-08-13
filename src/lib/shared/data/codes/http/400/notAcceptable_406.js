@@ -1,6 +1,6 @@
 const data = {
   title: 'Not Acceptable',
-  img: '/images/codes/http/400/desc_406.svg',
+  img: '/images/codes/http/400/back_406.svg',
   code: 406,
   complexity: 'base',
 

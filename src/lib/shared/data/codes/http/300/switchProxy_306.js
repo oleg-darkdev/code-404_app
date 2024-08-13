@@ -1,6 +1,6 @@
 const data = {
   title: 'Switch Proxy',
-  img: '/images/codes/http/300/desc_306.svg',
+  img: '/images/codes/http/300/back_306.svg',
   code: 306,
   complexity: 'base',
 

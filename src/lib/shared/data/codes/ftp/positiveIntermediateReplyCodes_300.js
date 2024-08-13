@@ -22,7 +22,7 @@ id: '3xx',
       usernameOkayNeedPassword_336,
       requestedFileAction_350,
     ],
-    data: [
+    allCodes: [
       userNameOkayNeedPassword_331,
       needAccountForLogin_332,
       serverAcceptsTheSecurity_334,

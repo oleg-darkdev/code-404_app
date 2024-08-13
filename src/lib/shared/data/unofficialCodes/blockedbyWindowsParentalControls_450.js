@@ -1,6 +1,6 @@
 const data = {
   title: 'Blocked by Windows Parental Controls (Microsoft)',
-  img: '/images/codes/http/unofficial/desk_depr_450.svg',
+  img: '/images/codes/http/unofficial/back_depr_450.svg',
   code: 450,
   complexity: 'Microsoft',
 

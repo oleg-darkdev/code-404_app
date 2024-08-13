@@ -1,6 +1,6 @@
 const data = {
   title: 'System status, or system help reply',
-  img: '/images/codes/smtp/desc_211.svg',
+  img: '/images/codes/smtp/back_211.svg',
   code: 211,
   complexity: 'base',
 

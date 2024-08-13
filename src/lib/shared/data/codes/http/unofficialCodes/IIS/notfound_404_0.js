@@ -1,6 +1,6 @@
 const data = {
   title: 'Not found.',
-  img: '/images/codes/http/iss/desc_404-0.svg',
+  img: '/images/codes/http/iss/back_404-0.svg',
   code: 404.0,
   complexity: 'base',
 

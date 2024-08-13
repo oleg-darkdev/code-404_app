@@ -1,6 +1,6 @@
 const data = {
   title: 'Unsupported Media Type',
-  img: '/images/codes/http/400/desc_415.svg',
+  img: '/images/codes/http/400/back_415.svg',
   code: 415,
   complexity: 'base',
 

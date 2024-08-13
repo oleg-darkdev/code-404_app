@@ -1,6 +1,6 @@
 const data = {
   title: 'File extension denied.',
-  img: '/images/codes/http/iss/desc_404_7.svg',
+  img: '/images/codes/http/iss/back_404_7.svg',
   code: 404.7,
   complexity: 'base',
 

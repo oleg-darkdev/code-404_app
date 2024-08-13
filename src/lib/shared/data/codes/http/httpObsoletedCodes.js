@@ -5,10 +5,6 @@ import heuristicExpiration_113 from './obsoleted/heuristicExpiration_113'
 import miscellaneousWarning_199 from './obsoleted/miscellaneousWarning_199'
 import transformationApplied_214 from './obsoleted/transformationApplied_214'
 import miscellaneousPersistentWarning_299 from './obsoleted/miscellaneousPersistentWarning_299'
-// import continue_100 from './obsoleted/continue_100'
-// import continue_100 from './obsoleted/continue_100'
-
-
 
 const data = {
   title: 'Caching warning codes (obsoleted)',
@@ -27,7 +23,7 @@ const data = {
       miscellaneousWarning_199,
       revalidationFailed_111
     ],
-    data: [
+    allCodes: [
       responseIsStale_110,
       revalidationFailed_111,
       disconnectedOperation_112,

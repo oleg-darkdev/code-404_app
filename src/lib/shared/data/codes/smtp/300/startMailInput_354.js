@@ -1,6 +1,6 @@
 const data = {
   title: 'Start mail input.',
-  img: '/images/codes/smtp/desc_354.svg',
+  img: '/images/codes/smtp/back_354.svg',
   code: 354,
   complexity: 'base',
 

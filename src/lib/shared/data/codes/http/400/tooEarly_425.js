@@ -1,6 +1,6 @@
 const data = {
   title: 'Too Early',
-  img: '/images/codes/http/400/desc_425.svg',
+  img: '/images/codes/http/400/back_425.svg',
   code: 425,
   complexity: 'base',
 

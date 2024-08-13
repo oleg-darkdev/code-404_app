@@ -1,6 +1,6 @@
 const data = {
   title: 'Web Server Returned an Unknown Error',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_520.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_520.svg',
   code: 520,
   complexity: 'Cloudflare',
 

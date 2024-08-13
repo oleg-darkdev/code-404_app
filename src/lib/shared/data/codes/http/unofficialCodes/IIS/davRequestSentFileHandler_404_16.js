@@ -1,6 +1,6 @@
 const data = {
   title: 'DAV request sent to the static file handler.',
-  img: '/images/codes/http/iss/desc_404_16.svg',
+  img: '/images/codes/http/iss/back_404_16.svg',
   code: 404.16,
   complexity: 'base',
 

@@ -1,4 +1,4 @@
-// HTTP codes
+//  HTTP codes
 import httpInformationalCodes_100 from './httpInformationalCodes_100';
 import httpSuccesCodes_200 from './httpSuccesCodes_200';
 import httpRedirectionCodes_300 from './httpRedirectionCodes_300';
@@ -19,6 +19,8 @@ const httpCodesData = {
   shortDesc: '',
   link: '/codes/http/',
   desc: [``, ``, ``],
+  id: 'http',
+
   allCodes: [
     httpInformationalCodes_100,
     httpSuccesCodes_200,
@@ -34,19 +36,6 @@ const httpCodesData = {
     httpUnofficialCodes,
     httppromoOtherCodes
   ],
-  _100: httpInformationalCodes_100,
-  _200: httpSuccesCodes_200,
-  _300: httpRedirectionCodes_300,
-  _400: httpClientErrorCodes_400,
-  _500: httpServerErrorCodes_500,
-  aws: httpAwsCodes,
-  cloudflare: httpCloudflareCodes,
-  nginx: httpNginxCodes,
-  obsoleted: httpObsoletedCodes,
-  shopify: httpShopifyCodes,
-  iss: httpMicrosoftISSCodes,
-  unofficial: httpUnofficialCodes,
-  other: httppromoOtherCodes
  }
 
 export default httpCodesData;

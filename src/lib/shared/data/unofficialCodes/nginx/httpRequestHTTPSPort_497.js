@@ -1,6 +1,6 @@
 const data = {
   title: 'HTTP Request Sent to HTTPS Port',
-  img: '/images/codes/http/nginx/deck_nginx_497.svg',
+  img: '/images/codes/http/nginx/back_nginx_497.svg',
   code: 497,
   complexity: 'Nginx',
 

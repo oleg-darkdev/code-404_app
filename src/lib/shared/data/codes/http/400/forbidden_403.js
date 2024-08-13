@@ -1,6 +1,6 @@
 const data = {
   title: 'Forbidden',
-  img: '/images/codes/http/400/desc_403.svg',
+  img: '/images/codes/http/400/back_403.svg',
   code: 403,
   complexity: 'base',
 

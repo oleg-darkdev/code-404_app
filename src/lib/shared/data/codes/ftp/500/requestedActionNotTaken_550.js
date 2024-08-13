@@ -1,6 +1,6 @@
 const data = {
   title: 'Requested action not taken.',
-  img: '/images/codes/ftp/desc_550.svg',
+  img: '/images/codes/ftp/back_550.svg',
   code: 550,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Restart marker replay.',
-  img: '/images/codes/ftp/desc_110.svg',
+  img: '/images/codes/ftp/back_110.svg',
   code: 110,
   complexity: 'base',
 

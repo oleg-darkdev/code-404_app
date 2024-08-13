@@ -1,6 +1,6 @@
 const data = {
   title: 'Origin Is Unreachable',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_523.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_523.svg',
   code: 523,
   complexity: 'Cloudflare',
 

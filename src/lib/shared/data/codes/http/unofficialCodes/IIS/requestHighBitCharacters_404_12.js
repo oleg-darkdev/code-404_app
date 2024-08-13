@@ -1,6 +1,6 @@
 const data = {
   title: 'Request contains high-bit characters.',
-  img: '/images/codes/http/iss/desc_404_12.svg',
+  img: '/images/codes/http/iss/back_404_12.svg',
   code: 404.12,
   complexity: 'base',
 

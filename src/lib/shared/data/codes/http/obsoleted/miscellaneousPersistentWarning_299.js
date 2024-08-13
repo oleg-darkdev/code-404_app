@@ -1,6 +1,6 @@
 const data = {
   title: 'Miscellaneous Persistent Warning',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_299.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_299.svg',
   code: 299,
   complexity: 'obsoleted',
 

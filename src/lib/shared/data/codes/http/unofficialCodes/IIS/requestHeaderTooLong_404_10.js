@@ -1,6 +1,6 @@
 const data = {
   title: 'Request header too long.',
-  img: '/images/codes/http/iss/desc_404_10.svg',
+  img: '/images/codes/http/iss/back_404_10.svg',
   code: 404.10,
   complexity: 'base',
 

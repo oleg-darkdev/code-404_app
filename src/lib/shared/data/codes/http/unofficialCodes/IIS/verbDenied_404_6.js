@@ -1,6 +1,6 @@
 const data = {
   title: 'Verb denied.',
-  img: '/images/codes/http/iss/desc_404_6.svg',
+  img: '/images/codes/http/iss/back_404_6.svg',
   code: 404.6,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Loop Detected',
-  img: '/images/codes/http/500/desc_508.svg',
+  img: '/images/codes/http/500/back_508.svg',
   code: 508,
   complexity: 'base',
 

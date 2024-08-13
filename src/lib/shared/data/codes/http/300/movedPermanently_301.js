@@ -1,6 +1,6 @@
 const data = {
   title: 'Moved Permanently',
-  img: '/images/codes/http/300/desc_301.svg',
+  img: '/images/codes/http/300/back_301.svg',
   code: 301,
   complexity: 'base',
 

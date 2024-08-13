@@ -1,6 +1,6 @@
 const data = {
   title: 'Syntax error in parameters or arguments.',
-  img: '/images/codes/ftp/desc_501.svg',
+  img: '/images/codes/ftp/back_501.svg',
   code: 501,
   complexity: 'base',
 

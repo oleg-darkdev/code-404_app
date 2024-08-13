@@ -1,6 +1,6 @@
 const data = {
   title: 'Network read timeout error (Informal convention)',
-  img: '/images/codes/http/unofficial/desk_depr_598.svg',
+  img: '/images/codes/http/unofficial/back_depr_598.svg',
   code: 598,
   complexity: 'base',
 

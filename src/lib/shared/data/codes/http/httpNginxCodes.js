@@ -4,14 +4,6 @@ import sslCertificateError_495 from './unofficialCodes/nginx/sslCertificateError
 import sslCertificateRequired_496 from './unofficialCodes/nginx/sslCertificateRequired_496'
 import httpRequestHTTPSPort_497 from './unofficialCodes/nginx/httpRequestHTTPSPort_497'
 import clientClosedRequest_499 from './unofficialCodes/nginx/clientClosedRequest_499'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-// import requestHeaderTooLarge_494 from './unofficialCodes/nginx/requestHeaderTooLarge_494'
-
-
 
 
 const data = {
@@ -33,7 +25,7 @@ const data = {
       httpRequestHTTPSPort_497,
 
     ],
-    data: [
+    allCodes: [
       noResponse_444,
       requestHeaderTooLarge_494,
       sslCertificateError_495,

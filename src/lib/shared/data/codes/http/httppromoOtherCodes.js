@@ -24,7 +24,7 @@ const data = {
       httpMicrosoftISSCodes.promo[0],
       httpNginxCodes.promo[0],
     ],
-    data: [
+    allCodes: [
 
     ]
   }

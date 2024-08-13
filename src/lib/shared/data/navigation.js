@@ -3,29 +3,29 @@ const navigation = [
     title: 'About',
     link: '#about'
   },
-  {
-    title: 'Prices',
-    link: '#prices'
-  },
+  // / {
+  // /   title: 'Prices',
+  // /   link: '#prices'
+  // / },
   {
     title: 'F.A.Q.',
     link: '#faq'
   },
-  {
-    title: 'Contact',
-    link: '#contact'
-  },
+  // / {
+  // /   title: 'Contact',
+  // /   link: '#contact'
+  // / },
   {
     title: 'HTTP',
-    link: '#http'
+    link: '/codes/http'
   },
   {
     title: 'SMTP',
-    link: '#smtp'
+    link: '/codes/smtp'
   },
   {
     title: 'FTP',
-    link: '#ftp' 
+    link: '/codes/ftp'
   },
 ]
 

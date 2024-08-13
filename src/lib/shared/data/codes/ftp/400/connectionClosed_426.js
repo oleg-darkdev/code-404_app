@@ -1,6 +1,6 @@
 const data = {
   title: 'Connection closed.',
-  img: '/images/codes/ftp/desc_426.svg',
+  img: '/images/codes/ftp/back_426.svg',
   code: 426,
   complexity: 'base',
 

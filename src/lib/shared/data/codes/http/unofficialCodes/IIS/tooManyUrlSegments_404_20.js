@@ -1,6 +1,6 @@
 const data = {
   title: 'Too Many URL Segments.',
-  img: '/images/codes/http/iss/desc_404_20.svg',
+  img: '/images/codes/http/iss/back_404_20.svg',
   code: 404.20,
   complexity: 'base',
 

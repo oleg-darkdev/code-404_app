@@ -1,6 +1,6 @@
 const data = {
   title: 'Multi-Status',
-  img: '/images/codes/http/200/desc_207.svg',
+  img: '/images/codes/http/200/back_207.svg',
   code: 207,
     complexity: 'base',
 

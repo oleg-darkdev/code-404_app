@@ -1,6 +1,6 @@
 const data = {
   title: 'Content length too large.',
-  img: '/images/codes/http/iss/desc_404_13.svg',
+  img: '/images/codes/http/iss/back_404_13.svg',
   code: 404.13,
   complexity: 'base',
 

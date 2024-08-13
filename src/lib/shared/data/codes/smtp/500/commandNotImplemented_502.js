@@ -1,6 +1,6 @@
 const data = {
   title: 'Command not implemented.',
-  img: '/images/codes/smtp/desc_502.svg',
+  img: '/images/codes/smtp/back_502.svg',
   code: 502,
   complexity: 'base',
 

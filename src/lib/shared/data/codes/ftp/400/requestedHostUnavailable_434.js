@@ -1,6 +1,6 @@
 const data = {
   title: 'Requested host unavailable.',
-  img: '/images/codes/ftp/desc_434.svg',
+  img: '/images/codes/ftp/back_434.svg',
   code: 434,
   complexity: 'base',
 

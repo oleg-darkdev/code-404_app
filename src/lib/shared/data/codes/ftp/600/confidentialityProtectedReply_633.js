@@ -1,6 +1,6 @@
 const data = {
   title: 'Confidentiality protected reply.',
-  img: '/images/codes/ftp/desc_633.svg',
+  img: '/images/codes/ftp/back_633.svg',
   code: 633,
   complexity: 'base',
 

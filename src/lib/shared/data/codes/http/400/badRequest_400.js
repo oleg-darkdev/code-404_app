@@ -1,6 +1,6 @@
 const data = {
   title: 'Bad Request',
-  img: '/images/codes/http/400/desc_400.svg',
+  img: '/images/codes/http/400/back_400.svg',
   code: 40,
   complexity: 'base',
 

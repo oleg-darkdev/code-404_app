@@ -1,6 +1,6 @@
 const data = {
   title: 'Partial Content',
-  img: '/images/codes/http/200/desc_206.svg',
+  img: '/images/codes/http/200/back_206.svg',
   code: 206,
     complexity: 'base',
 

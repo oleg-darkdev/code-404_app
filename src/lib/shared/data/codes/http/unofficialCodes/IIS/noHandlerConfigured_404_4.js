@@ -1,6 +1,6 @@
 const data = {
   title: '',
-  img: '/images/codes/http/iss/desc_404_4.svg',
+  img: '/images/codes/http/iss/back_404_4.svg',
   code: 404.4,
   complexity: 'base',
 

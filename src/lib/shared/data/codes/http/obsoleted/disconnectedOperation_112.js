@@ -1,6 +1,6 @@
 const data = {
   title: 'Disconnected Operation',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_112.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_112.svg',
   code: 112,
   complexity: 'obsoleted',
 

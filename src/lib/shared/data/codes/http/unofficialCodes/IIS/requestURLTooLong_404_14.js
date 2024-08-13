@@ -1,6 +1,6 @@
 const data = {
   title: 'Request URL too long.',
-  img: '/images/codes/http/iss/desc_404_14.svg',
+  img: '/images/codes/http/iss/back_404_14.svg',
   code: 404.14,
   complexity: 'base',
 

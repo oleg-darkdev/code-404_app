@@ -1,6 +1,6 @@
 const data = {
   title: 'Requested mail action not taken.',
-  img: '/images/codes/smtp/desc_450.svg',
+  img: '/images/codes/smtp/back_450.svg',
   code: 450,
   complexity: 'base',
 

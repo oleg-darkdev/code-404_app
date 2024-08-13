@@ -1,6 +1,6 @@
 const data = {
   title: 'Connection Timed Out',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_522.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_522.svg',
   code: 522,
   complexity: 'Cloudflare',
 

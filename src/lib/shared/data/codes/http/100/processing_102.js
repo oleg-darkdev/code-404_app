@@ -1,6 +1,6 @@
 const data = {
   title: 'Processing',
-  img: '/images/codes/http/100/desc_102.svg',
+  img: '/images/codes/http/100/back_102.svg',
   code: 101,
     complexity: 'base',
 

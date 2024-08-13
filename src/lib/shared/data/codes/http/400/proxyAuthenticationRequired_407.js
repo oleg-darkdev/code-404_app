@@ -1,6 +1,6 @@
 const data = {
   title: 'Proxy Authentication Required',
-  img: '/images/codes/http/400/desc_407.svg',
+  img: '/images/codes/http/400/back_407.svg',
   code: 407,
   complexity: 'base',
 

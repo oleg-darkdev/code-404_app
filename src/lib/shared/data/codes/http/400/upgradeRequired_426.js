@@ -1,6 +1,6 @@
 const data = {
   title: 'Upgrade Required',
-  img: '/images/codes/http/400/desc_426.svg',
+  img: '/images/codes/http/400/back_426.svg',
   code: 426,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'See Other ',
-  img: '/images/codes/http/300/desc_303.svg',
+  img: '/images/codes/http/300/back_303.svg',
   code: 303,
   complexity: 'base',
 

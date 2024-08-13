@@ -1,6 +1,6 @@
 const data = {
   title: 'Found (Previously "Moved temporarily")',
-  img: '/images/codes/http/300/desc_302.svg',
+  img: '/images/codes/http/300/back_302.svg',
   code: 302,
   complexity: 'base',
 

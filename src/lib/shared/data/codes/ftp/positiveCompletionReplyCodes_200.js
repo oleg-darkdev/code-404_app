@@ -36,7 +36,7 @@ const data = {
     requestedFileActionOkay_250,
     pathnameCreated_257
   ],
-  data: [
+  allCodes: [
     commandNotImplemented_202,
     systemStatus_211,
     directoryStatus_212,

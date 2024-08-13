@@ -1,6 +1,6 @@
 const data = {
   title: 'Bandwidth Limit Exceeded (Apache Web Server/cPanel)',
-  img: '/images/codes/http/unofficial/desk_depr_509.svg',
+  img: '/images/codes/http/unofficial/back_depr_509.svg',
   code: 509,
   complexity: 'Apache',
 

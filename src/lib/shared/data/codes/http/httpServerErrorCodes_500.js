@@ -29,7 +29,7 @@ const data = {
       badGateway_502,
       networkAuthenticationRequired_511,
     ],
-    data: [
+    allCodes: [
       internalServerError_500,
       notImplemented_501,
       badGateway_502,

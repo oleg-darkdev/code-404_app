@@ -1,6 +1,6 @@
 const data = {
   title: 'Service not available.',
-  img: '/images/codes/smtp/desc_421.svg',
+  img: '/images/codes/smtp/back_421.svg',
   code: 421,
   complexity: 'base',
 

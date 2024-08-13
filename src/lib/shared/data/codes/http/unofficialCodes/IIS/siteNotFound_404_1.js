@@ -1,6 +1,6 @@
 const data = {
   title: 'Site Not Found.',
-  img: '/images/codes/http/iss/desc_404_1.svg',
+  img: '/images/codes/http/iss/back_404_1.svg',
   code: 404.1,
   complexity: 'base',
 

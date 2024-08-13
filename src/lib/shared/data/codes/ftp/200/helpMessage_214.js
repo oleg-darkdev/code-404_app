@@ -1,6 +1,6 @@
 const data = {
   title: 'Help message.',
-  img: '/images/codes/ftp/desc_214.svg',
+  img: '/images/codes/ftp/back_214.svg',
   code: 214,
   complexity: 'base',
 

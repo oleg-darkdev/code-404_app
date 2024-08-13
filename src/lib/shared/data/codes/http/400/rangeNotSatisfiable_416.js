@@ -1,6 +1,6 @@
 const data = {
   title: 'Range Not Satisfiable',
-  img: '/images/codes/http/400/desc_416.svg',
+  img: '/images/codes/http/400/back_416.svg',
   code: 416,
   complexity: 'base',
 

@@ -24,7 +24,7 @@ const data = {
       aws_464,
       aws_561
     ],
-    data: [
+    allCodes: [
       aws_000,
       aws_460,
       aws_463,

@@ -1,6 +1,6 @@
 const data = {
   title: 'Web Server Is Down',
-  img: '/images/codes/http/cloudflare/deck_cloudflare_521.svg',
+  img: '/images/codes/http/cloudflare/back_cloudflare_521.svg',
   code: 521,
   complexity: 'Cloudflare',
 

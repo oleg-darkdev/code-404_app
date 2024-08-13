@@ -1,6 +1,6 @@
 const data = {
   title: 'SSL Certificate Required',
-  img: '/images/codes/http/nginx/deck_nginx_496.svg',
+  img: '/images/codes/http/nginx/back_nginx_496.svg',
   code: 496,
   complexity: 'Nginx',
 

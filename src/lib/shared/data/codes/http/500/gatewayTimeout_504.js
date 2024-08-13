@@ -1,6 +1,6 @@
 const data = {
   title: 'Gateway Timeout',
-  img: '/images/codes/http/500/desc_504.svg',
+  img: '/images/codes/http/500/back_504.svg',
   code: 504,
   complexity: 'base',
 

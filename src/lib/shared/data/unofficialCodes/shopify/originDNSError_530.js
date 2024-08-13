@@ -1,6 +1,6 @@
 const data = {
   title: 'Origin DNS Error (Shopify)',
-  img: '/images/codes/http/spotify/deck_spotify_530.svg',
+  img: '/images/codes/http/ify/back_shopify_530.svg',
   code: 530,
   complexity: 'Shopify',
 

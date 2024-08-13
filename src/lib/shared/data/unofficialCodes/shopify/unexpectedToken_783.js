@@ -1,6 +1,6 @@
 const data = {
   title: 'Unexpected Token (Shopify)',
-  img: '/images/codes/http/spotify/deck_spotify_783.svg',
+  img: '/images/codes/http/ify/back_shopify_783.svg',
   code: 783,
   complexity: 'Shopify',
 

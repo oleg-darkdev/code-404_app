@@ -1,6 +1,6 @@
 const data = {
   title: 'Hidden namespace.',
-  img: '/images/codes/http/iss/desc_404_8.svg',
+  img: '/images/codes/http/iss/back_404_8.svg',
   code: 404.8,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Network Connect Timeout Error',
-  img: '/images/codes/http/unofficial/desk_depr_599.svg',
+  img: '/images/codes/http/unofficial/back_depr_599.svg',
   code: 599,
   complexity: 'base',
 

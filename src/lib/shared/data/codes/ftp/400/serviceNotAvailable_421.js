@@ -1,6 +1,6 @@
 const data = {
   title: 'Service not available, closing control connection.',
-  img: '/images/codes/ftp/desc_421.svg',
+  img: '/images/codes/ftp/back_421.svg',
   code: 421,
   complexity: 'base',
 

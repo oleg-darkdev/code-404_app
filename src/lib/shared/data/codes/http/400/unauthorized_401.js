@@ -1,6 +1,6 @@
 const data = {
   title: 'Unauthorized',
-  img: '/images/codes/http/400/desc_401.svg',
+  img: '/images/codes/http/400/back_401.svg',
   code: 401,
   complexity: 'base',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Server challenge - the text part contains the Base64-encoded challenge.',
-  img: '/images/codes/smtp/desc_334.svg',
+  img: '/images/codes/smtp/back_334.svg',
   code: 334,
   complexity: 'base',
 

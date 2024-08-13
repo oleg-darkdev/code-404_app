@@ -1,6 +1,6 @@
 const data = {
   title: 'Precondition Required',
-  img: '/images/codes/http/400/desc_428.svg',
+  img: '/images/codes/http/400/back_428.svg',
   code: 428,
   complexity: 'base',
 

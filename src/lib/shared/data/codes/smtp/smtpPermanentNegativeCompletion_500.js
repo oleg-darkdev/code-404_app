@@ -20,7 +20,7 @@ import domainDoesNotAcceptMail_556 from './500/domainDoesNotAcceptMail_556'
 
 
 const data = {
-  title: '5yz: Permanent negative completion codes.',
+  title: '5xx: Permanent negative completion codes.',
   brandColour: '',
   heartClass: 'heart-500',
   shortDesc: 'The command was not accepted and the requested action did not occur. The SMTP client SHOULD NOT repeat the exact request (in the same sequence).',
@@ -37,7 +37,7 @@ const data = {
     requestedMailActionAborted_552,
     domainDoesNotAcceptMail_556,
     ],
-    data: [
+    allCodes: [
       authenticationExchange_500,
       syntaxErrorParametersArguments_501,
       commandNotImplemented_502,

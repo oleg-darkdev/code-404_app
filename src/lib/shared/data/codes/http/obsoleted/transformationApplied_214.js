@@ -1,6 +1,6 @@
 const data = {
   title: 'Transformation Applied',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_214.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_214.svg',
   code: 214,
   complexity: 'obsoleted',
 

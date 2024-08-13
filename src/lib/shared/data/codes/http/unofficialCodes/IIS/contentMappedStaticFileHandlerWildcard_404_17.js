@@ -1,6 +1,6 @@
 const data = {
   title: 'Dynamic content mapped to the static file handler via a wildcard MIME mapping.',
-  img: '/images/codes/http/iss/desc_404_17.svg',
+  img: '/images/codes/http/iss/back_404_17.svg',
   code: 404.17,
   complexity: 'base',
 

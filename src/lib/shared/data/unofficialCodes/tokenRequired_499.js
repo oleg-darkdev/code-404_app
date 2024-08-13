@@ -1,6 +1,6 @@
 const data = {
   title: 'Token Required (Esri)',
-  img: '/images/codes/http/unofficial/desk_depr_499.svg',
+  img: '/images/codes/http/unofficial/back_depr_499.svg',
   code: 499,
   complexity: 'Esri',
 

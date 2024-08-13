@@ -6,19 +6,19 @@ const promoTypesOfCodes = {
       title: 'HTTP codes',
       complexity: 'basic',
       code: 'http',
-      img: '',
+      img: '/images/codes/http.svg',
     },
     {
       title: 'SMTP codes',
       complexity: 'basic',
       code: 'smtp',
-      img: '',
+      img: '/images/codes/smtp.svg',
     },
       {
       title: 'FTP codes',
       complexity: 'basic',
       code: 'ftp',
-      img: '',
+      img: '/images/codes/ftp.svg',
     }
   ]
 };

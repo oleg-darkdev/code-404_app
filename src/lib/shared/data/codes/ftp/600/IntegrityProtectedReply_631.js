@@ -1,6 +1,6 @@
 const data = {
   title: 'Integrity protected reply.',
-  img: '/images/codes/ftp/desc_631.svg',
+  img: '/images/codes/ftp/back_631.svg',
   code: 631,
   complexity: 'base',
 

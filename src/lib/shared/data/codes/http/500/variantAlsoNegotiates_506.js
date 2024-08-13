@@ -1,6 +1,6 @@
 const data = {
   title: 'Variant Also Negotiates',
-  img: '/images/codes/http/500/desc_506.svg',
+  img: '/images/codes/http/500/back_506.svg',
   code: 506,
   complexity: 'base',
 

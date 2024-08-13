@@ -24,7 +24,7 @@ id: '1xx',
       dataConnectionAlreadyOpen_125,
       fileStatusOkay_150
     ],
-    data: [
+    allCodes: [
       restartMarkerReplay_110,
       serviceReadyInMinutes_120,
       dataConnectionAlreadyOpen_125,

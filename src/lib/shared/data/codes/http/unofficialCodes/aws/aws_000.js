@@ -1,6 +1,6 @@
 const data = {
   title: '000',
-  img: '/images/codes/http/aws/desc_aws_000.svg',
+  img: '/images/codes/http/aws/back_aws_000.svg',
   code: '000',
   complexity: 'AWS',
 

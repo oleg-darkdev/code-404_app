@@ -1,6 +1,6 @@
 const data = {
   title: 'SSL Certificate Error',
-  img: '/images/codes/http/nginx/deck_nginx_495.svg',
+  img: '/images/codes/http/nginx/back_nginx_495.svg',
   code: 495,
   complexity: 'Nginx',
 

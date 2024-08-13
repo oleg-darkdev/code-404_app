@@ -1,6 +1,6 @@
 const data = {
   title: 'Miscellaneous Warning',
-  img: '/images/codes/http/obsoleted/deck_obsoleted_199.svg',
+  img: '/images/codes/http/obsoleted/back_obsoleted_199.svg',
   code: 199,
   complexity: 'obsoleted',
 

@@ -1,6 +1,6 @@
 const data = {
   title: 'Not Extended',
-  img: '/images/codes/http/500/desc_510.svg',
+  img: '/images/codes/http/500/back_510.svg',
   code: 510,
   complexity: 'base',
 

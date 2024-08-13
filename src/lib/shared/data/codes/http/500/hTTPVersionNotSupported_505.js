@@ -1,6 +1,6 @@
 const data = {
   title: 'HTTP Version Not Supported',
-  img: '/images/codes/http/500/desc_505.svg',
+  img: '/images/codes/http/500/back_505.svg',
   code: 505,
   complexity: 'base',
 

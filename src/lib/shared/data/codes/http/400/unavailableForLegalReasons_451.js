@@ -1,6 +1,6 @@
 const data = {
   title: 'Unavailable For Legal Reasons',
-  img: '/images/codes/http/400/desc_451.svg',
+  img: '/images/codes/http/400/back_451.svg',
   code: 451,
   complexity: 'base',
 

@@ -1,7 +1,7 @@
 const data = {
   title: 'Redirect',
-  img: '/images/codes/http/iss/deck_iss_40.svg',
-  code: 40,
+  img: '/images/codes/http/iss/back_iss_451.svg',
+  code: 451,
   complexity: 'Microsoft',
 
   shortDesc: `Used in Exchange ActiveSync when either a more efficient server is available or the server cannot access the users' mailbox.`,

@@ -1,6 +1,6 @@
 const data = {
   title: 'Request Header Fields Too Large',
-  img: '/images/codes/http/400/desc_431.svg',
+  img: '/images/codes/http/400/back_431.svg',
   code: 431,
   complexity: 'base',
 

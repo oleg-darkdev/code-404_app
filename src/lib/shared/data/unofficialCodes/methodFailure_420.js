@@ -1,6 +1,6 @@
 const data = {
   title: 'Method Failure (Spring Framework)',
-  img: '/images/codes/http/unofficial/desk_depr_420_spring.svg',
+  img: '/images/codes/http/unofficial/back_depr_420_spring.svg',
   code: 420,
   complexity: 'Spring',
 

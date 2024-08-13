@@ -1,6 +1,6 @@
 <script>
-	import {  } from '$lib/shared';
-	/ import {  } from '$lib/widgets';
+	// import {  } from '$lib/shared';
+	//  import {  } from '$lib/widgets';
  //  import {  } from '$lib/entities'
 </script>
 

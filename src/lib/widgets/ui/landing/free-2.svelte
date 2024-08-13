@@ -10,12 +10,12 @@
               <div class="cart-suggestion-wrapper w-dyn-list">
                 <div role="list" class="cart-suggestion-list w-dyn-items">
                   <div role="listitem" class="cart-suggestion-item w-dyn-item">
-                    <a href="/produkte/achtzig-zwanzig" class="link-block-product cc-cart-suggestion w-inline-block">
+                    <a href="/" class="link-block-product cc-cart-suggestion w-inline-block">
                       <div class="product-meta-wrapper">
                         <div class="product-heading-wrapper">
                           <h3 class="cart-item-overview-heading">ACHTZIG ZWANZIG dark roast</h3>
                           <div class="organic-logo w-condition-invisible">
-                            <img src="images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
+                            <img src="/images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
                           </div>
                         </div>
                         <div class="product-overview-price-wrapper">
@@ -33,17 +33,17 @@
                         </div>
                       </div>
                       <div class="product-thumbnail-wrapper">
-                        <img src="images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg" loading="lazy" alt="ACHTZIG ZWANZIG dark roast" sizes="100vw" srcset="images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-500.jpeg 500w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-800.jpeg 800w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-1080.jpeg 1080w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg 1200w" class="product-image cc-landingpage">
+                        <img src="/images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg" loading="lazy" alt="ACHTZIG ZWANZIG dark roast" sizes="100vw" srcset="/images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-500.jpeg 500w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-800.jpeg 800w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-1080.jpeg 1080w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg 1200w" class="product-image cc-landingpage">
                       </div>
                     </a>
                   </div>
                   <div role="listitem" class="cart-suggestion-item w-dyn-item">
-                    <a href="/produkte/athiopien-light-roast" class="link-block-product cc-cart-suggestion w-inline-block">
+                    <a href="/" class="link-block-product cc-cart-suggestion w-inline-block">
                       <div class="product-meta-wrapper">
                         <div class="product-heading-wrapper">
                           <h3 class="cart-item-overview-heading">ÄTHIOPIEN light roast</h3>
                           <div class="organic-logo w-condition-invisible">
-                            <img src="images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
+                            <img src="/images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
                           </div>
                         </div>
                         <div class="product-overview-price-wrapper">
@@ -61,7 +61,7 @@
                         </div>
                       </div>
                       <div class="product-thumbnail-wrapper">
-                        <img src="images/6386341915e596443954002a_AethiopienLaenderkaffee_KROeMKaffeeroestereiMagdeburg.jpeg" loading="lazy" alt="ÄTHIOPIEN light roast" class="product-image cc-landingpage">
+                        <img src="/images/6386341915e596443954002a_AethiopienLaenderkaffee_KROeMKaffeeroestereiMagdeburg.jpeg" loading="lazy" alt="ÄTHIOPIEN light roast" class="product-image cc-landingpage">
                       </div>
                     </a>
                   </div>
@@ -69,7 +69,7 @@
               </div>
             </div>
             <div id="cart-item-loading-spinner" class="cart-item-loading-spinner">
-              <div class="loading-spinner" data-w-id="7530af3d-e416-203f-25d3-3207bbc9251b" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/62695a031f1563936b525a72_lf30_editor_3sebc4ky.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="3.16" data-duration="0"></div>
+              <div class="loading-spinner" data-w-id="7530af3d-e416-203f-25d3-3207bbc9251b" data-animation-type="lottie" data-src="https:/cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/62695a031f1563936b525a72_lf30_editor_3sebc4ky.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="3.16" data-duration="0"></div>
             </div>
           </div>
           <div class="cart-summary-wrapper">
@@ -86,7 +86,7 @@
           </div>
           <div id="cart-preloader" class="cart-preloader">
             <div class="div-block-32">
-              <div data-w-id="d3da09da-f961-afd7-dc20-602f410e8f5d" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/61965ab806482f517e990003_herdkanne%20-%20login.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="5.005004801146985" data-duration="0"></div>
+              <div data-w-id="d3da09da-f961-afd7-dc20-602f410e8f5d" data-animation-type="lottie" data-src="https:/cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/61965ab806482f517e990003_herdkanne%20-%20login.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="5.005004801146985" data-duration="0"></div>
               <div class="normal-text is__bold">Gleich gehts weiter zur Kasse</div>
             </div>
           </div>
@@ -117,7 +117,7 @@
                   <label id="newsletter-consent" newsletter="consent" style="display:none;height:0px" class="w-checkbox newsletter-consent">
                     <div class="w-checkbox-input w-checkbox-input--inputType-custom newsletter-consent-checkbox"></div>
                     <input id="GDPR-Consent-Newsletter-Page" type="checkbox" name="GDPR-Consent-Newsletter-Page" data-name="GDPR Consent Newsletter Page" required="" style="opacity:0;position:absolute;z-index:-1">
-                    <span class="smalll-text w-form-label" for="GDPR-Consent-Newsletter-Page">Die von Ihnen angegebenen personenbezogenen Daten werden zum Zweck der Zurverfügungstellung des Newsletters aufgrund Ihrer erteilten Einwilligung gemäß Art. 6 Abs. 1 UAbs. 1 lit. a) DSGVO verarbeitet.“ Weitere Informationen entnehmen Sie der <a href="/datenschutz">Datenschutzerklärung</a>. Sie können den Newsletter jederzeit widerrufen. </span>
+                    <span class="smalll-text w-form-label" for="GDPR-Consent-Newsletter-Page">Die von Ihnen angegebenen personenbezogenen Daten werden zum Zweck der Zurverfügungstellung des Newsletters aufgrund Ihrer erteilten Einwilligung gemäß Art. 6 Abs. 1 UAbs. 1 lit. a) DSGVO verarbeitet.“ Weitere Informationen entnehmen Sie der <a href="/">Datenschutzerklärung</a>. Sie können den Newsletter jederzeit widerrufen. </span>
                   </label>
                 </form>
                 <div class="success-message-2 w-form-done">
@@ -135,10 +135,10 @@
           <div class="newsletter-content image-side">
             <div class="padding-vertical">
               <div class="newsletter-page-image-wrapper">
-                <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="960faad0-7995-4e45-16f3-ab5ea75dc888" alt="" class="newsletter-page-image _4">
-                <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="59923235-0647-c79e-e3b9-2e6611957251" alt="" class="newsletter-page-image _3">
-                <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="63e03c10-722f-8729-d77b-24e3cb5ef8dd" alt="" class="newsletter-page-image _2">
-                <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter-page-image _1">
+                <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="960faad0-7995-4e45-16f3-ab5ea75dc888" alt="" class="newsletter-page-image _4">
+                <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="59923235-0647-c79e-e3b9-2e6611957251" alt="" class="newsletter-page-image _3">
+                <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" data-w-id="63e03c10-722f-8729-d77b-24e3cb5ef8dd" alt="" class="newsletter-page-image _2">
+                <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter-page-image _1">
               </div>
             </div>
           </div>

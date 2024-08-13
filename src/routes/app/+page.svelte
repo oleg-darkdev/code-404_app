@@ -1,7 +1,7 @@
 <script>
-	// import {  } from '$lib/shared';
+	//   import {  } from '$lib/shared';
 	import { Instruction, ByCategories } from '$lib/widgets';
-  // import {  } from '$lib/entities'
+ //  import {  } from '$lib/entities'
 </script>
 
 
@@ -11,7 +11,9 @@
 
 <ByCategories />
 
-<Instruction />
+<!--
+
+<Instruction /> -->
 
 
 

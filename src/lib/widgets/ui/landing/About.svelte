@@ -19,7 +19,7 @@
 
         </div>
         <div  class="layout-image-wrapper">
-          <img src="images/616078fc192b2b31d327f9f8_Karlsbader%20Kanne.svg" loading="lazy" alt="" class="image-9">
+          <img src="/images/qr.svg" loading="lazy" alt="" class="image-9">
         </div>
       </div>
     </div>

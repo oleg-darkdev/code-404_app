@@ -1,7 +1,7 @@
 <script>
-	// import {  } from '$lib/shared';
-	// import {  } from '$lib/widgets';
-  // import {  } from '$lib/entities'
+	/ import {  } from '$lib/shared';
+	/ import {  } from '$lib/widgets';
+ //  import {  } from '$lib/entities'
 </script>
 
 
@@ -15,7 +15,7 @@
         <nav class="container navbar-container w-container">
           <div class="navbar-wrapper">
             <a href="/" class="nav-logo-static w-inline-block">
-              <img src="images/61377a11a321ba568513ce4d_KRO%CC%88M%20Kaffeero%CC%88sterei%20Magdeburg%20Logo%20light.svg" loading="lazy" alt="Logo der Kaffeerösterei Magdeburg" class="logo">
+              <img src="/images/61377a11a321ba568513ce4d_KRO%CC%88M%20Kaffeero%CC%88sterei%20Magdeburg%20Logo%20light.svg" loading="lazy" alt="Logo der Kaffeerösterei Magdeburg" class="logo">
             </a>
             <div class="register-link-wrapper">
               <div class="cc-konto-right-space">DU hast ein Konto?</div>
@@ -38,7 +38,7 @@
                 <div class="is__bold has__all-caps form-heading">E-Mail Adresse <span class="text-span">*</span>
                 </div>
                 <div class="input-text-field-wrapper">
-                  <img src="images/61911ba94627800035cce025_mail.svg" loading="lazy" width="19" alt="" class="input-field-icon">
+                  <img src="/images/61911ba94627800035cce025_mail.svg" loading="lazy" width="19" alt="" class="input-field-icon">
                   <input class="input-text-field white-input is__shifted w-input" autofocus="true" maxlength="256" name="E-Mail-Adresse" data-name="E-Mail Adresse" placeholder="" type="email" id="user-email" required="">
                 </div>
               </div>
@@ -108,7 +108,7 @@
                 </div>
                 <div class="input-text-field-wrapper">
                   <input class="input-text-field white-input is__shifted w-input" maxlength="256" name="Passwort" data-name="Passwort" placeholder="" data-w-id="e0ac7b5b-0199-bcfe-c0aa-ee82af6f52d1" type="password" id="user-password" required="">
-                  <img src="images/61911ba9aaba4d54b6d0b987_lock.svg" loading="lazy" width="17" alt="" class="input-field-icon lock">
+                  <img src="/images/61911ba9aaba4d54b6d0b987_lock.svg" loading="lazy" width="17" alt="" class="input-field-icon lock">
                 </div>
               </div>
               <div class="input-field-wrapper">
@@ -116,13 +116,13 @@
                 </div>
                 <div class="input-text-field-wrapper">
                   <input class="input-text-field white-input is__shifted w-input" maxlength="256" name="Passwort-Wiederholung" data-name="Passwort Wiederholung" placeholder="" type="password" id="user-password-check" required="">
-                  <img src="images/61911ba9aaba4d54b6d0b987_lock.svg" loading="lazy" width="17" alt="" class="input-field-icon lock">
+                  <img src="/images/61911ba9aaba4d54b6d0b987_lock.svg" loading="lazy" width="17" alt="" class="input-field-icon lock">
                 </div>
               </div>
               <div class="margin-bottom margin-small">
-                <div class="smalll-text is__passiv">Indem du ein Konto erstellst, erklärst du dich mit der <a href="/datenschutz">Datenschutzrichtlinie</a> und den <a href="/allgemeine-geschaftsbedingungen">Geschäftsbedingungen</a> von KRÖM einverstanden. </div>
+                <div class="smalll-text is__passiv">Indem du ein Konto erstellst, erklärst du dich mit der <a href="/">Datenschutzrichtlinie</a> und den <a href="/allgemeine-geschaftsbedingungen">Geschäftsbedingungen</a> von KRÖM einverstanden. </div>
               </div>
-              <a id="user-register-button" href="#" class="std-button is__bigger is__100 is__black w-button">Registrieren</a>
+              <a id="user-register-button" href="/" class="std-button is__bigger is__100 is__black w-button">Registrieren</a>
               <div id="email-sent" class="succeed-form-data-text">Wir haben dir eine E-Mail geschickt, in der du deine E-Mail Adresse bestätigen musst.</div>
               <div id="unequal-password" class="invalid-form-data-text">Die Passwörter stimmen nicht überein.</div>
               <div id="required-fields" class="invalid-form-data-text">Bitte fülle alle nötigen Felder aus.</div>
@@ -138,7 +138,7 @@
       </div>
       <div class="member-side-image">
         <div class="sticky-french-press-lottie">
-          <div data-is-ix2-target="1" class="herdkanne-lottie" data-w-id="304ad7eb-1a1b-58c6-e96f-9ad3c267b4c1" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/623e0629235faf9f57e6c677_herdkanne%20-%20login%20-%20violet.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="5.005004801146985" data-duration="0"></div>
+          <div data-is-ix2-target="1" class="herdkanne-lottie" data-w-id="304ad7eb-1a1b-58c6-e96f-9ad3c267b4c1" data-animation-type="lottie" data-src="https:/cdn.prod.website-files.com/610cf33140aaf753c6f8f7bb/623e0629235faf9f57e6c677_herdkanne%20-%20login%20-%20violet.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="5.005004801146985" data-duration="0"></div>
         </div>
       </div>
     </div>

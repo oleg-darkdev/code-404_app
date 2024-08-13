@@ -48,13 +48,13 @@
                       <div class="question-popup-text-wrapper">
                         <p class="normal-text answer-text">Der Röstgrad bestimmt die Stärke des Kaffees und gibt dir gleichzeitig eine Empfehlung für welche Kaffee-Art du Ihn verwenden solltest. (Ist aber nur unsere Empfehlung ;-) )</p>
                         <div class="close-question-popup">
-                          <img src="images/6141080bafd3256ebc3a85ed_small-close-cross.svg" loading="lazy" alt="">
+                          <img src="/images/6141080bafd3256ebc3a85ed_small-close-cross.svg" loading="lazy" alt="">
                         </div>
                       </div>
                     </div>
                   </div>
-                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag1" href="#" class="reset-filter w-inline-block">
-                    <img src="images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
+                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag1" href="/" class="reset-filter w-inline-block">
+                    <img src="/images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
                     <div class="clear-link">clear</div>
                   </a>
                 </div>
@@ -90,8 +90,8 @@
                     <div class="normal-text is__bold is__inline">Koffeingehalt</div>
                     <div class="normal-text is__bold is__inline">:</div>
                   </div>
-                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag2" href="#" class="reset-filter w-inline-block">
-                    <img src="images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
+                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag2" href="/" class="reset-filter w-inline-block">
+                    <img src="/images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
                     <div class="clear-link">clear</div>
                   </a>
                 </div>
@@ -127,8 +127,8 @@
                     <div class="normal-text is__bold is__inline">Bio</div>
                     <div class="normal-text is__bold is__inline">:</div>
                   </div>
-                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag3" href="#" class="reset-filter w-inline-block">
-                    <img src="images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
+                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag3" href="/" class="reset-filter w-inline-block">
+                    <img src="/images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
                     <div class="clear-link">clear</div>
                   </a>
                 </div>
@@ -157,13 +157,13 @@
                       <div class="question-popup-text-wrapper">
                         <p class="normal-text answer-text">Die Zubereitungsmethode ist für uns sehr wichtig! Anhand ihr bestimmen wir den Röstgrad, die Zeit und weitere Parameter, damit sich die Aromen perfekt für deinen Kaffee ausbreiten.</p>
                         <div class="close-question-popup">
-                          <img src="images/6141080bafd3256ebc3a85ed_small-close-cross.svg" loading="lazy" alt="">
+                          <img src="/images/6141080bafd3256ebc3a85ed_small-close-cross.svg" loading="lazy" alt="">
                         </div>
                       </div>
                     </div>
                   </div>
-                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag4" href="#" class="reset-filter w-inline-block">
-                    <img src="images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
+                  <a fs-cmsfilter-element="reset" fs-cmsfilter-reset="Tag4" href="/" class="reset-filter w-inline-block">
+                    <img src="/images/61f06700c7bd9a19ee984598_61c1fe749bd898297804762d_reset-black.svg" loading="lazy" width="31" alt="Reset-Icon" class="reset-icon">
                     <div class="clear-link">clear</div>
                   </a>
                 </div>
@@ -243,17 +243,17 @@
                     <div fs-cmssort-element="dropdown-label" class="normal-text">Beliebteste</div>
                   </div>
                   <nav style="height:0px" class="sort-dropdown-list w-dropdown-list">
-                    <a href="#" fs-cmssort-field="bestseller-asc" class="sort-dropdown-link top w-dropdown-link">Beliebteste</a>
-                    <a href="#" fs-cmssort-field="date-desc" class="sort-dropdown-link w-dropdown-link">Neu dabei</a>
-                    <a href="#" fs-cmssort-field="date-asc" class="sort-dropdown-link w-dropdown-link">Old but gold</a>
-                    <a href="#" fs-cmssort-field="price-asc" class="sort-dropdown-link w-dropdown-link">Kleinster Preis</a>
-                    <a href="#" fs-cmssort-field="price-desc" class="sort-dropdown-link bottom w-dropdown-link">Höchster Preis</a>
+                    <a href="/" fs-cmssort-field="bestseller-asc" class="sort-dropdown-link top w-dropdown-link">Beliebteste</a>
+                    <a href="/" fs-cmssort-field="date-desc" class="sort-dropdown-link w-dropdown-link">Neu dabei</a>
+                    <a href="/" fs-cmssort-field="date-asc" class="sort-dropdown-link w-dropdown-link">Old but gold</a>
+                    <a href="/" fs-cmssort-field="price-asc" class="sort-dropdown-link w-dropdown-link">Kleinster Preis</a>
+                    <a href="/" fs-cmssort-field="price-desc" class="sort-dropdown-link bottom w-dropdown-link">Höchster Preis</a>
                   </nav>
                 </div>
               </div>
             </div>
             <div class="save-filter-button-wrapper">
-              <a data-w-id="2020004b-2b72-d7c7-b0e9-22017f0cdfa4" href="#" class="std-button black is__bigger is__100 w-inline-block">
+              <a data-w-id="2020004b-2b72-d7c7-b0e9-22017f0cdfa4" href="/" class="std-button black is__bigger is__100 w-inline-block">
                 <div class="normal-text button-text">Filter anwenden</div>
               </a>
             </div>
@@ -274,11 +274,11 @@
                         <div fs-cmssort-element="dropdown-label" class="normal-text">Beliebteste</div>
                       </div>
                       <nav style="height:0px" class="sort-dropdown-list w-dropdown-list">
-                        <a href="#" fs-cmssort-field="bestseller-asc" class="sort-dropdown-link top w-dropdown-link">Beliebteste</a>
-                        <a href="#" fs-cmssort-field="date-desc" class="sort-dropdown-link w-dropdown-link">Neu dabei</a>
-                        <a href="#" fs-cmssort-field="date-asc" class="sort-dropdown-link w-dropdown-link">Old but gold</a>
-                        <a href="#" fs-cmssort-field="price-asc" class="sort-dropdown-link w-dropdown-link">Kleinster Preis</a>
-                        <a href="#" fs-cmssort-field="price-desc" class="sort-dropdown-link bottom w-dropdown-link">Höchster Preis</a>
+                        <a href="/" fs-cmssort-field="bestseller-asc" class="sort-dropdown-link top w-dropdown-link">Beliebteste</a>
+                        <a href="/" fs-cmssort-field="date-desc" class="sort-dropdown-link w-dropdown-link">Neu dabei</a>
+                        <a href="/" fs-cmssort-field="date-asc" class="sort-dropdown-link w-dropdown-link">Old but gold</a>
+                        <a href="/" fs-cmssort-field="price-asc" class="sort-dropdown-link w-dropdown-link">Kleinster Preis</a>
+                        <a href="/" fs-cmssort-field="price-desc" class="sort-dropdown-link bottom w-dropdown-link">Höchster Preis</a>
                       </nav>
                     </div>
                   </div>
@@ -308,21 +308,21 @@
                       </div>
                       <div class="favourite-wrapper">
                         <div class="favourite-button-embed w-embed">
-                          <div id="favourite-button" class="favourite-button" data-shopify-id="gid://shopify/Product/7209104998598"></div>
+                          <div id="favourite-button" class="favourite-button" data-shopify-id="gid:/ify/Product/7209104998598"></div>
                         </div>
                         <div class="favorite-heart w-embed">
-                          <svg xmlns="http://www.w3.org/2000/svg" width="20.552" height="18.195" viewBox="0 0 21.552 18.195">
+                          <svg xmlns="http:/www.w3.org/2000/svg" width="20.552" height="18.195" viewBox="0 0 21.552 18.195">
                             <defs></defs>
                             <path id="heart-icon-violet" class="cls-1" d="M9.776,17l7.278-7.026c.1-.1,2.5-2.282,2.5-4.888C19.552,1.9,17.6,0,14.337,0c-1.908,0-3.7,1.5-4.561,2.347C8.913,1.5,7.123,0,5.215,0,1.952,0,0,1.9,0,5.086,0,7.695,2.4,9.877,2.487,9.952Z" transform="translate(0.5 0.5)" fill="currentColor"></path>
                           </svg>
                         </div>
                       </div>
-                      <a href="/produkte/achtzig-zwanzig" class="link-block-product w-inline-block">
+                      <a href="/" class="link-block-product w-inline-block">
                         <div class="product-meta-wrapper">
                           <div class="product-heading-wrapper">
                             <h2 class="product-overview-heading">ACHTZIG ZWANZIG dark roast</h2>
                             <div class="organic-logo w-condition-invisible">
-                              <img src="images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
+                              <img src="/images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu">
                             </div>
                           </div>
                           <div class="product-overview-price-wrapper">
@@ -340,17 +340,17 @@
                           </div>
                         </div>
                         <div class="product-thumbnail-wrapper">
-                          <img src="images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg" loading="lazy" alt="ACHTZIG ZWANZIG dark roast" sizes="(max-width: 479px) 73vw, (max-width: 767px) 50vw, (max-width: 991px) 47vw, (max-width: 1279px) 36vw, 24vw" srcset="images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-500.jpeg 500w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-800.jpeg 800w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-1080.jpeg 1080w, images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg 1200w" class="product-image">
+                          <img src="/images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg" loading="lazy" alt="ACHTZIG ZWANZIG dark roast" sizes="(max-width: 479px) 73vw, (max-width: 767px) 50vw, (max-width: 991px) 47vw, (max-width: 1279px) 36vw, 24vw" srcset="/images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-500.jpeg 500w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-800.jpeg 800w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9-p-1080.jpeg 1080w, /images/641329557df473d965c591d8_AchtzigZwanzig-KROeMKaffeeroestereiMagdeburg_67eecd8d-a7a7-4b9d-a40e-074287d41ea9.jpeg 1200w" class="product-image">
                         </div>
                         <div data-w-id="a0102be0-cd03-35d3-ab42-cda4dc92b436" class="item-menu-button">
-                          <img src="images/613b9f8a118d688664b0847b_item-menu.svg" loading="lazy" alt="Detail Menü Icon. Drei horizontale Striche." class="image-3">
+                          <img src="/images/613b9f8a118d688664b0847b_item-menu.svg" loading="lazy" alt="Detail Menü Icon. Drei horizontale Striche." class="image-3">
                         </div>
                         <div class="item-menu">
                           <div class="product-meta-wrapper inside-item-menu">
                             <div class="product-heading-wrapper cc-item-menu">
                               <h3 class="cart-item-overview-heading inside-item-menu">ACHTZIG ZWANZIG dark roast</h3>
                               <div class="organic-logo inside-item-menu w-condition-invisible">
-                                <img src="images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu inside-item-menu">
+                                <img src="/images/613c8a9ba868284649a34016_EU-Organic-Logo.svg" loading="lazy" alt="EU-Bio-Logo. Vorverpackte Bio-Lebensmittel, aus der EU, welche die strengen Normen der EU-Rechtsvorschriften für den ökologischen Landbau erfüllen, müssen seit dem 1. Juli 2010 verpflichtend mit dem EU-Bio-Logo gekennzeichnet werden." class="organic-logo-eu inside-item-menu">
                               </div>
                             </div>
                             <div class="product-overview-price-wrapper">
@@ -469,18 +469,18 @@
                 </div>
                 <div class="product-list">
                   <div id="w-node-_593f38fb-eecc-d723-1548-b3030047840f-cc7c27d4" class="product-item">
-                    <a fs-cmsstatic-interactive="true" fs-cmsstatic-element="static-item" fs-cmsstatic-order="4" data-w-id="608fdac1-76f8-9d20-7484-f0824a5af1ce" href="/newsletter" class="newsletter_static-item w-inline-block">
+                    <a fs-cmsstatic-interactive="true" fs-cmsstatic-element="static-item" fs-cmsstatic-order="4" data-w-id="608fdac1-76f8-9d20-7484-f0824a5af1ce" href="/" class="newsletter_static-item w-inline-block">
                       <div>
                         <div class="static-newsletter-heading">News die du riechen kannst!</div>
                         <p class="hide-mobile-portrait">Erfahre als erstes von neuen Kreationen, Rezepten sowie Aktionen und erhalte außerdem <strong>10% Rabatt</strong> auf deinen ersten Einkauf bei uns! </p>
                         <p class="newsletter_static-mobile-text">Erhalte neue Krea­tionen, Rezepte, Aktionen und dazu noch <strong>10% Rabatt</strong> auf deinen ersten Einkauf :) </p>
                       </div>
                       <div class="newsletter_static-image-wrapper">
-                        <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-static">
-                        <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-2">
-                        <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-3">
-                        <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-4">
-                        <img src="images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-5">
+                        <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-static">
+                        <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-2">
+                        <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-3">
+                        <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-4">
+                        <img src="/images/640a05c9746c467846c2bf8b_Envelpoe%20Newsletter.svg" loading="lazy" alt="" class="newsletter_static-image is-5">
                       </div>
                     </a>
                   </div>

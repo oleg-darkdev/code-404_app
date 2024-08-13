@@ -18,7 +18,7 @@
             <a  href="/" class="featured-image-link-block w-inline-block">
               <div class="hero-image-wrapper">
                 <img src="/images/box.png" loading="lazy" alt="" sizes="(max-width: 479px) 63vw, (max-width: 767px) 72vw, (max-width: 991px) 36vw, (max-width: 1439px) 55vw, 56vw"  class="hero-image">
-                <!-- <img src="images/620fd40e626c8c7f79d72dcd_Schatten.png" loading="lazy" sizes="(max-width: 479px) 63vw, (max-width: 767px) 72vw, (max-width: 991px) 36vw, 518px"   alt="" class="hero-product-shadow"> -->
+                <!-- <img src="/images/620fd40e626c8c7f79d72dcd_Schatten.png" loading="lazy" sizes="(max-width: 479px) 63vw, (max-width: 767px) 72vw, (max-width: 991px) 36vw, 518px"   alt="" class="hero-product-shadow"> -->
               </div>
             </a>
             <div class="hero-product-background"></div>

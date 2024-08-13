@@ -7,12 +7,12 @@
       <!-- <div class="page-load-preloader"></div> -->
       <div id="cookie_modal" class="cookie-consent-modal">
         <div class="cookie-consent-wrapper">
-          <img src="images/626ba85fca55aba977d01822_cookie-image.svg" loading="eager" alt="" class="cookie--image">
+          <img src="/images/626ba85fca55aba977d01822_cookie-image.svg" loading="eager" alt="" class="cookie--image">
           <div class="cookie--heading">Cookie Einstellungen</div>
           <p class="cookie--paragraph has--margin-24px custom-mobil-font-size">Diese Website verwendet Cookies um Ihnen ein besseres Internet-Erlebnis zu ermöglichen. Diese Technologien nutzen wir um Ergebnisse zu messen, um zu verstehen, woher unsere Besucher kommen oder um unsere Website weiter zu entwickeln.</p>
           <div class="w-layout-grid cookie--button-grid">
-            <a id="accept_all_main_btn" href="#" class="cookie--button main-button w-node-fe2505e7-b365-1336-4d89-b90757244bd8-1a9adcee w-button">Alle akzeptieren</a>
-            <a id="accept_necessary_main_btn" href="#" class="cookie--button main-button w-node-fe2505e7-b365-1336-4d89-b90757244bda-1a9adcee w-button">Notwendige akzeptieren</a>
+            <a id="accept_all_main_btn" href="/" class="cookie--button main-button w-node-fe2505e7-b365-1336-4d89-b90757244bd8-1a9adcee w-button">Alle akzeptieren</a>
+            <a id="accept_necessary_main_btn" href="/" class="cookie--button main-button w-node-fe2505e7-b365-1336-4d89-b90757244bda-1a9adcee w-button">Notwendige akzeptieren</a>
             <div id="w-node-fe2505e7-b365-1336-4d89-b90757244bdc-1a9adcee" data-w-id="fe2505e7-b365-1336-4d89-b90757244bdc" class="cookie--pref-button-wrapper">
               <div id="w-node-fe2505e7-b365-1336-4d89-b90757244bdd-1a9adcee" class="cookie--pref-button">Einstellungen ändern</div>
             </div>
@@ -26,7 +26,7 @@
               </div>
               <nav class="cookie-pref-dropdown-list w-dropdown-list">
                 <p class="cookie--paragraph category-text">Diese Cookies sind für die Bereitstellung von Diensten, die über unsere Website verfügbar sind, und für die Verwendung bestimmter Funktionen unserer Website von wesentlicher Bedeutung. Ohne diese Cookies können wir Ihnen bestimmte Dienste auf unserer Website nicht zur Verfügung stellen.</p>
-                <a href="#" class="cookie--pref-detail-button always-active w-button">immer aktiv</a>
+                <a href="/" class="cookie--pref-detail-button always-active w-button">immer aktiv</a>
                 <div data-hover="false" data-delay="300" class="cookie--detail-dropdown w-dropdown">
                   <div class="cookie--detail-dropdown-toogle w-dropdown-toggle">
                     <div class="cookie-pref-icon w-icon-dropdown-toggle"></div>
@@ -114,8 +114,8 @@
               </div>
               <nav class="cookie-pref-dropdown-list w-dropdown-list">
                 <p class="cookie--paragraph category-text">Auf einigen Seiten unserer Website verwenden wir eingebettete Inhalte (externe Partner-Websites, die z.B. über iframe angezeigt werden, sowie eingebettete Videos). Eingebettete Inhalte von anderen Websites funktionieren genau so, als ob Sie die andere Website besuchen würden. Diese Websites können ihre eigenen Cookies setzen, über die wir keine Kontrolle haben. Dies können sowohl Funktions-, Tracking- und Performance-Cookies sein.</p>
-                <a id="accept_third_party_btn" href="#" class="cookie--pref-detail-button w-button">aktiv</a>
-                <a id="decline_third_party_btn" href="#" class="cookie--pref-detail-button w-button">inaktiv</a>
+                <a id="accept_third_party_btn" href="/" class="cookie--pref-detail-button w-button">aktiv</a>
+                <a id="decline_third_party_btn" href="/" class="cookie--pref-detail-button w-button">inaktiv</a>
                 <div data-hover="false" data-delay="300" class="cookie--detail-dropdown w-dropdown">
                   <div class="cookie--detail-dropdown-toogle w-dropdown-toggle">
                     <div class="cookie-pref-icon w-icon-dropdown-toggle"></div>
@@ -139,8 +139,8 @@
               </div>
               <nav class="cookie-pref-dropdown-list w-dropdown-list">
                 <p class="cookie--paragraph category-text">Diese Cookies werden zum Sammeln von Informationen verwendet, um den Verkehr auf unserer Website und die Nutzung unserer Website durch Besucher zu analysieren.Diese Cookies können beispielsweise nachverfolgen, wie lange Sie auf der Website verweilen oder welche Seiten Sie besuchen. So können wir verstehen, wie wir unsere Website für Sie verbessern können. Die durch diese Tracking- und Performance-Cookies gesammelten Informationen identifizieren keinen einzelnen Besucher.</p>
-                <a id="accept_tracking_btn" href="#" class="cookie--pref-detail-button w-button">aktiv</a>
-                <a id="decline_tracking_btn" href="#" class="cookie--pref-detail-button w-button">inaktiv</a>
+                <a id="accept_tracking_btn" href="/" class="cookie--pref-detail-button w-button">aktiv</a>
+                <a id="decline_tracking_btn" href="/" class="cookie--pref-detail-button w-button">inaktiv</a>
                 <div data-hover="false" data-delay="300" class="cookie--detail-dropdown w-dropdown">
                   <div class="cookie--detail-dropdown-toogle w-dropdown-toggle">
                     <div class="cookie-pref-icon w-icon-dropdown-toggle"></div>
@@ -261,10 +261,10 @@
               </nav>
             </div>
           </div>
-          <a id="cookie_pref_save_btn" href="#" class="cookie--button save-preferences w-button">Speichern und schließen</a>
+          <a id="cookie_pref_save_btn" href="/" class="cookie--button save-preferences w-button">Speichern und schließen</a>
           <div class="cookie--modal-bottom-links">
-            <a href="/impressum" class="cookie-bottom-link">Impressum</a>
-            <a href="/datenschutz" class="cookie-bottom-link">Datenschutz</a>
+            <a href="/" class="cookie-bottom-link">Impressum</a>
+            <a href="/" class="cookie-bottom-link">Datenschutz</a>
           </div>
         </div>
       </div>

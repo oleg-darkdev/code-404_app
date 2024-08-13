@@ -6,15 +6,12 @@
 	onMount(() => {
 		AOS.init();
 	});
-  	import { Header } from '$lib/widgets';
 
 </script>
 
-<Header />
-
-<main class=" overflow-hidden">
+<div class=" overflow-hidden">
 	<slot />
-</main>
+</div>
 
 <style>
 </style>

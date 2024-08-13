@@ -22,9 +22,8 @@ import FreeF from './ui/landing/Free-4.svelte';
 import FreeFi from './ui/landing/Free-5.svelte';
 import FreeS from './ui/landing/Free-6.svelte';
 import FreeSe from './ui/landing/Free-7.svelte';
-// import Cookie from './ui/landing/Free-3.svelte';
-// import Cookie from './ui/landing/Free-3.svelte';
+import FullCodesInCategory from './ui/landing/FullCodesInCategory.svelte';
 // import Cookie from './ui/landing/Free-3.svelte';
 
 
-export { FreeO, FreeT, FreeTh, FreeF,FreeFi, FreeS, FreeSe,  Cookie, Cart, Header, Hero, CodesCardsRow, ByCategories, About, Divider, Price, GrayProductsRow, CallToAction, Instruction, Features, MemoryCards, Faq, Newsletter, Footer };
+export { FullCodesInCategory, FreeO, FreeT, FreeTh, FreeF,FreeFi, FreeS, FreeSe,  Cookie, Cart, Header, Hero, CodesCardsRow, ByCategories, About, Divider, Price, GrayProductsRow, CallToAction, Instruction, Features, MemoryCards, Faq, Newsletter, Footer };

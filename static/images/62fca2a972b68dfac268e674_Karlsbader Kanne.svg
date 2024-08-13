@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <polygon points="200.52 77.51 195.2 77.51 190.85 90.09 200.52 90.09 200.52 110.68 213.1 110.68 213.1 90.09 213.1 77.51 200.52 77.51" style="fill: #e1d7ff;"/>
+    <polygon points="200.52 149.24 192.9 149.24 192.9 161.83 200.52 161.83 200.52 182.42 213.1 182.42 213.1 161.83 213.1 149.24 200.52 149.24" style="fill: #e1d7ff;"/>
+    <rect x="82.5" y="127.77" width="84.73" height="12.58" style="fill: #e1d7ff;"/>
+    <rect x="25.03" y="60.42" width="142.79" height="12.58" style="fill: #e1d7ff;"/>
+    <rect x="46.06" y="115.19" width="36.43" height="79.93" style="fill: #e1d7ff;"/>
+    <polygon points="25.03 73 34.56 115.19 94 115.19 103.53 73 25.03 73" style="fill: #e1d7ff;"/>
+    <polygon points="182.17 115.19 125.15 115.19 110.55 73 196.76 73 182.17 115.19" style="fill: #e1d7ff;"/>
+    <rect x="25.03" y="195.12" width="188.07" height="12.58" style="fill: #e1d7ff;"/>
+    <rect x="125.15" y="115.19" width="57.02" height="12.58" style="fill: #e1d7ff;"/>
+    <polygon points="114.4 148.82 99.35 148.82 109.29 161.41 114.4 161.41 114.4 148.82" style="fill: #e1d7ff;"/>
+    <rect x="114.4" y="140.35" width="78.5" height="54.77" style="fill: #e1d7ff;"/>
+    <polygon points="200.52 77.51 195.2 77.51 190.85 90.09 200.52 90.09 200.52 110.68 213.1 110.68 213.1 90.09 213.1 77.51 200.52 77.51" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="200.52 149.24 192.9 149.24 192.9 161.83 200.52 161.83 200.52 182.42 213.1 182.42 213.1 161.83 213.1 149.24 200.52 149.24" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="82.5" y="127.77" width="84.73" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="25.03" y="60.42" width="142.79" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="46.06" y="115.19" width="36.43" height="79.93" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="25.03 73 34.56 115.19 94 115.19 103.53 73 25.03 73" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="182.17 115.19 125.15 115.19 110.55 73 196.76 73 182.17 115.19" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="25.03" y="195.12" width="188.07" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="125.15" y="115.19" width="57.02" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="114.4 148.82 99.35 148.82 109.29 161.41 114.4 161.41 114.4 148.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="114.4" y="140.35" width="78.5" height="54.77" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  </g>
+</svg>

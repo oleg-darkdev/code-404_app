@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <g>
+      <polygon points="185.24 85.79 185.24 132.66 172.65 132.66 172.65 85.79 153.33 85.79 155.52 73.21 172.65 73.21 185.24 73.21 185.24 85.79" style="fill: #e1d7ff;"/>
+      <polygon points="145.99 140.56 157.92 207.91 74.61 207.91 86.54 140.56 145.99 140.56" style="fill: #e1d7ff;"/>
+      <polygon points="155.52 60.63 155.52 73.21 132.5 73.21 125.79 73.21 100.03 73.21 77.02 73.21 77.02 60.63 155.52 60.63" style="fill: #e1d7ff;"/>
+      <polygon points="155.52 73.21 153.33 85.79 145.99 127.98 128.56 127.98 131.59 85.79 132.5 73.21 155.52 73.21" style="fill: #e1d7ff;"/>
+      <polygon points="145.99 127.98 145.99 140.56 86.54 140.56 86.54 127.98 103.97 127.98 116.27 127.98 128.56 127.98 145.99 127.98" style="fill: #e1d7ff;"/>
+      <polygon points="132.5 73.21 131.59 85.79 128.56 127.98 116.27 127.98 103.97 127.98 100.03 73.21 125.79 73.21 132.5 73.21" style="fill: #e1d7ff;"/>
+      <polygon points="100.03 73.21 103.97 127.98 86.54 127.98 79.2 85.79 77.02 73.21 100.03 73.21" style="fill: #e1d7ff;"/>
+      <polygon points="77.02 73.21 79.2 85.79 70.83 85.79 60.89 73.21 77.02 73.21" style="fill: #e1d7ff;"/>
+    </g>
+    <g>
+      <line x1="145.99" y1="140.56" x2="145.99" y2="127.98" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <line x1="86.54" y1="127.98" x2="86.54" y2="140.56" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="155.52 73.21 155.52 60.63 77.02 60.63 77.02 73.21" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="100.03 73.21 125.79 73.21 132.5 73.21" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="153.33 85.79 172.65 85.79 172.65 132.66 185.24 132.66 185.24 85.79 185.24 73.21 172.65 73.21 155.52 73.21" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polygon points="86.54 140.56 74.61 207.91 157.92 207.91 145.99 140.56 86.54 140.56" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="77.02 73.21 60.89 73.21 70.83 85.79 79.2 85.79" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="103.97 127.98 86.54 127.98 79.2 85.79 77.02 73.21 100.03 73.21 103.97 127.98" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="153.33 85.79 155.52 73.21 132.5 73.21 131.59 85.79 128.56 127.98 145.99 127.98 153.33 85.79" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polyline points="128.56 127.98 116.27 127.98 103.97 127.98" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <polyline points="156.91 150.92 156.91 207.91 78.41 207.91 78.41 49.36 156.91 49.36 156.91 138.33" style="fill: #e1d7ff;"/>
+    <rect x="104.93" y="36.51" width="25.45" height="12.85" style="fill: #e1d7ff;"/>
+    <rect x="97.28" y="131.21" width="25.45" height="15.99" style="fill: #e1d7ff;"/>
+    <g>
+      <polygon points="87.17 172.35 92.71 204.2 127.29 204.2 132.83 172.35 87.17 172.35" style="fill: #e1d7ff;"/>
+      <polygon points="96.92 199.2 92.25 172.35 127.75 172.35 123.08 199.2 96.92 199.2" style="fill: #e1d7ff;"/>
+    </g>
+    <rect x="104.93" y="138.33" width="62.1" height="12.58" style="fill: #e1d7ff;"/>
+    <polyline points="157.25 150.78 157.25 207.78 78.75 207.78 78.75 49.23 157.25 49.23 157.25 138.2" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="78.75" y="195.2" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="78.75" y="109.63" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="105.28" y="36.37" width="25.45" height="12.85" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="105.28" y="122.21" width="25.45" height="15.99" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <g>
+      <polygon points="95.17 163.35 100.71 195.2 135.29 195.2 140.83 163.35 95.17 163.35" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polygon points="104.92 190.2 100.25 163.35 135.75 163.35 131.08 190.2 104.92 190.2" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    </g>
+    <rect x="105.28" y="138.2" width="62.1" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <rect x="83.82" y="49.36" width="78.5" height="158.55" style="fill: #e1d7ff;"/>
+    <rect x="110.34" y="36.51" width="25.45" height="12.58" style="fill: #e1d7ff;"/>
+    <rect x="102.34" y="131.21" width="25.45" height="25.45" style="fill: #e1d7ff;"/>
+    <g>
+      <polygon points="92.24 172.35 97.78 204.2 132.35 204.2 137.89 172.35 92.24 172.35" style="fill: #e1d7ff;"/>
+      <polygon points="101.98 199.2 97.31 172.35 132.82 172.35 128.15 199.2 101.98 199.2" style="fill: #e1d7ff;"/>
+    </g>
+    <circle cx="115.07" cy="94.74" r="15.14" style="fill: #e1d7ff;"/>
+    <rect x="83.81" y="49.23" width="78.5" height="158.55" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="83.82" y="195.2" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="83.82" y="109.63" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="83.82" y="49.23" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="110.34" y="36.37" width="25.45" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="110.34" y="122.21" width="25.45" height="25.45" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <g>
+      <polygon points="100.24 163.35 105.78 195.2 140.35 195.2 145.89 163.35 100.24 163.35" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+      <polygon points="109.98 190.2 105.31 163.35 140.82 163.35 136.15 190.2 109.98 190.2" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    </g>
+    <circle cx="123.07" cy="85.74" r="15.14" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  </g>
+</svg>

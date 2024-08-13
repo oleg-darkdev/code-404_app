@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <polygon points="171.79 149.24 158.43 149.24 158.43 161.83 171.79 161.83 171.79 182.42 184.37 182.42 184.37 161.83 184.37 149.24 171.79 149.24" style="fill: #e1d7ff;"/>
+    <polygon points="171.79 77.51 158.43 77.51 158.43 90.09 171.79 90.09 171.79 110.68 184.37 110.68 184.37 90.09 184.37 77.51 171.79 77.51" style="fill: #e1d7ff;"/>
+    <polygon points="79.93 148.82 62.85 148.82 72.79 161.41 79.93 161.41 79.93 148.82" style="fill: #e1d7ff;"/>
+    <rect x="79.93" y="60.42" width="78.5" height="147.28" style="fill: #e1d7ff;"/>
+    <polygon points="171.24 149.24 157.89 149.24 157.89 161.83 171.24 161.83 171.24 182.42 183.83 182.42 183.83 161.83 183.83 149.24 171.24 149.24" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="171.24 77.51 157.89 77.51 157.89 90.09 171.24 90.09 171.24 110.68 183.83 110.68 183.83 90.09 183.83 77.51 171.24 77.51" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="79.39 148.82 62.3 148.82 72.24 161.41 79.39 161.41 79.39 148.82" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="79.39" y="60.42" width="78.5" height="147.28" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="79.39" y="121.48" width="78.5" height="12.58" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  </g>
+</svg>

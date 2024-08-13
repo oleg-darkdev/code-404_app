@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.13 244.29">
+  <rect width="238.13" height="244.29" style="fill: none;"/>
+  <g>
+    <polygon points="175.94 149.28 160.8 149.28 159.5 161.86 175.94 161.86 175.94 182.45 188.52 182.45 188.52 161.86 188.52 149.28 175.94 149.28" style="fill: #e1d7ff;"/>
+    <polygon points="85.61 118.87 95.14 207.74 154.59 207.74 164.11 118.87 85.61 118.87" style="fill: #e1d7ff;"/>
+    <polygon points="97.92 204.91 89.68 128.05 144.04 128.13 135.8 204.91 97.92 204.91" style="fill: #e1d7ff;"/>
+    <polygon points="160.8 149.45 159.5 162.04 175.94 162.04 175.94 182.62 188.52 182.62 188.52 162.04 188.52 149.45 160.8 149.45" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="85.61 119.05 95.14 207.91 154.59 207.91 164.11 119.05 85.61 119.05" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+    <polygon points="105.92 195.91 97.68 119.05 152.04 119.13 143.8 195.91 105.92 195.91" style="fill: none; stroke: #000; stroke-miterlimit: 10;"/>
+  </g>
+</svg>

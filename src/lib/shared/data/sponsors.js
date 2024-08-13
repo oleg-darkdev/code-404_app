@@ -27,7 +27,7 @@ const sponsors = [
   {
     title: 'Shopify',
     link: 'https:/www.shopify.com/',
-    logo: '/images/sponsors/ify.svg'
+    logo: '/images/sponsors/shopify.svg'
   },
 
 

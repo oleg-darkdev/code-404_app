@@ -8,7 +8,7 @@
 </svelte:head>
 
 
-<FreeO />
+<!-- <FreeO />
 
 <FreeT />
 
@@ -20,6 +20,6 @@
 
 <FreeS />
 
-<FreeSe />
+<FreeSe /> -->
 
 <style></style>

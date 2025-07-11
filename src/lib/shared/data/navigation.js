@@ -7,10 +7,10 @@ const navigation = [
   // /   title: 'Prices',
   // /   link: '#prices'
   // / },
-  {
-    title: 'F.A.Q.',
-    link: '#faq'
-  },
+  // {
+  //   title: 'F.A.Q.',
+  //   link: '#faq'
+  // },
   // / {
   // /   title: 'Contact',
   // /   link: '#contact'

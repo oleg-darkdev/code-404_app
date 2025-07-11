@@ -8,10 +8,9 @@
   <title>CODE 404</title>
 </svelte:head>
 
+<slot />
 
 <MemoryCards />
-
-<slot />
 
 <Faq />
 

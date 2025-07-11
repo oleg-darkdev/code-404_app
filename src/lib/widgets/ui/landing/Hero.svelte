@@ -9,10 +9,10 @@
         <div role="listitem" class="hero-featured-product-item w-dyn-item">
           <div class="feature-text-wrapper">
             <div>
-              <h1 class="big-heading cc-landing-heading">Lorem Ipsum is simply dummy text of</h1>
+              <h1 class="big-heading cc-landing-heading">Gra planszowa o kodach w sieci WWW.</h1>
             </div>
-            <div class="normal-text cc-featured-text only-desktop-tablet">Lorem Ipsum is simply dummy text of</div>
-              <BtnBlackWithArrow text='lorem impsum' link='/app' />
+            <div class="normal-text cc-featured-text only-desktop-tablet">Kod 200 jest OK - można rozpocząć grę.</div>
+              <BtnBlackWithArrow text='Ku aplikacji' link='/app' />
           </div>
           <div class="featured-image-wrapper">
             <a  href="/" class="featured-image-link-block w-inline-block">

@@ -1,20 +1,20 @@
 <script>
   const stats = [
     {
-      title: 'Lorem Ipsum',
-      count: 42
+      title: 'Wiek',
+      count: '14+'
     },
     {
-      title: 'Lorem Ipsum',
-      count: 102
+      title: 'Rozgrywka',
+      count: '102 minut.'
     },
     {
-      title: 'Lorem Ipsum',
-      count: 26
+      title: 'Ilość kodów',
+      count: '300+'
     },
     {
-      title: 'Lorem Ipsum',
-      count: 38
+      title: '',
+      count: 'Dostępna open-source'
     },
 
   ]
@@ -26,7 +26,7 @@
     <div class="container">
       <div  class="heading-wrapper">
         <div class="padding-bottom padding-medium">
-          <h2 class="big-heading">Lorem Ipsum is simply.</h2>
+          <h2 class="big-heading">Zawartość gry</h2>
         </div>
       </div>
       <div class="kr-m-values-layout">

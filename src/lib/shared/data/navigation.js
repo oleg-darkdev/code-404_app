@@ -1,6 +1,6 @@
 const navigation = [
   {
-    title: 'About',
+    title: 'O grze',
     link: '#about'
   },
   // / {
@@ -16,15 +16,15 @@ const navigation = [
   // /   link: '#contact'
   // / },
   {
-    title: 'HTTP',
+    title: 'O HTTP.',
     link: '/codes/http'
   },
   {
-    title: 'SMTP',
+    title: 'O SMTP.',
     link: '/codes/smtp'
   },
   {
-    title: 'FTP',
+    title: 'O FTP.',
     link: '/codes/ftp'
   },
 ]

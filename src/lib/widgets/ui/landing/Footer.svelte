@@ -10,7 +10,7 @@
       <img src="/images/logo.svg" loading="lazy" alt="404_code logo" class="footer-logo-image h-14">
     </a>
     <div class="footer-navigation">
-      <div class="footer-navlink-wrapper">
+      <!-- <div class="footer-navlink-wrapper">
         <div class="footer-navlink-header">Navigation</div>
         <div class="w-dyn-list">
           <div role="list" class="footer-collection-categorys w-dyn-items">
@@ -31,43 +31,48 @@
 
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="footer-navlink-wrapper">
         <div class="footer-navlink-header">List of HTTP codes</div>
-        {#each httpCodesList.allCodes as {title, link}}
-        <a href="{link}" target="_blank" class="footer-link">{title}</a>
+        {#each httpCodesList.allCodes as {id, link}}
+        <a href="{link}" target="_blank" class="footer-link">{id}</a>
         {/each}
       </div>
 
       <div  class="footer-navlink-wrapper">
         <div class="footer-navlink-header">List of FTP codes</div>
-        {#each smtpCodesList.allCodes as {title, link}}
-        <a href="{link}" target="_blank" class="footer-link">{title}</a>
+        {#each smtpCodesList.allCodes as {id, link}}
+        <a href="{link}" target="_blank" class="footer-link">{id}</a>
         {/each}
 
 
         <div class="mt-10 footer-navlink-header">List of SMTP codes</div>
-        {#each ftpCodesList.allCodes as {title, link}}
-        <a href="{link}" target="_blank" class="footer-link">{title}</a>
+        {#each ftpCodesList.allCodes as {id, link}}
+        <a href="{link}" target="_blank" class="footer-link">{id}</a>
         {/each}
       </div>
       <div class="footer-navlink-wrapper">
         <div class="footer-navlink-header">Contact</div>
 
 
-      <a name="">contact</a>
 
 
         <div class="rich-text-mono w-richtext">
           <p>
-            <a href="">
-              <strong>Lorem Ipsum is simply dummy <br>‍ </strong>
-            </a>Do. 15:30-17:30 Uhr <br>
-            <br>
-            <a href="https:/goo.gl/maps/FtBWZhL5TDJgsuH89">
-              <strong>Lorem Ipsum is simply dummy <br>‍ </strong>
-            </a>Mo. - Do. 11:00-18:00 Uhr <br>Fr. - Sa. 10:00-18:00 Uhr
+            <a a href="mailto:darkdev_brand@riseup.net"><strong>darkdev_brand@riseup.net</strong></a>
           </p>
+          <div class="menu-social-icons-wrapper">
+            <a href="/" target="_blank" class="social-icon-wrapper w-inline-block">
+              <img src="/images/facebook%20icon%20white.svg" loading="lazy" alt="" class="facebook-icon">
+            </a>
+            <a href="/" target="_blank" class="social-icon-wrapper w-inline-block">
+              <img src="/images/instagram-icon-white.svg" loading="lazy" alt="" class="instagram-icon">
+            </a>
+          </div>
+            <!-- <a href=""> -->
+              <!-- <strong>darkdev_brand@riseup.net</strong> -->
+            <!-- </a> -->
+            <!-- Do. 15:30-17:30   -->
         </div>
 
         <div class="footer-navlink-header mt-10">Partners</div>
@@ -82,14 +87,16 @@
     <div class="footer-legal">
       <div class="footer-legal-wrapper">
         <div class="footer-column-1">
-          <div class="copyright-code w-embed w-script">Copyright © 2024, Lorem Ipsum is simply dummy </div>
+          <div class="copyright-code w-embed w-script">Copyright © 2024-2025, 44Games </div>
         </div>
-        <div class="footer-column-2">
+
+        <!-- <div class="footer-column-2">
           <a href="/" class="footer-small-link">Lorem </a>
           <a href="/" class="footer-small-link">Ipsum is </a>
           <a href="/" class="footer-small-link">simply dummy</a>
           <div class="footer-small-link cookie-pref">Lorem Ipsum is simply dummy</div>
-        </div>
+        </div> -->
+
         <div class="footer-column-3">
           <a href="/" class="footer-small-link cc-dasda">by:dasda</a>
         </div>

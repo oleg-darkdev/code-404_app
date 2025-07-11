@@ -15,6 +15,9 @@ import About from './ui/landing/About.svelte';
 import Price from './ui/landing/Price.svelte';
 import Divider from './ui/landing/Divider.svelte';
 import ByCategories from './ui/landing/ByCategories.svelte';
+import Blog from './ui/landing/Blog.svelte';
+
+
 
 // import FreeO from './ui/landing/Free-1.svelte';
 // import FreeT from './ui/landing/Free-2.svelte';
@@ -27,4 +30,4 @@ import FullCodesInCategory from './ui/landing/FullCodesInCategory.svelte';
 // import Cookie from './ui/landing/Free-3.svelte';
 
 // FreeO, FreeT, FreeTh, FreeF,FreeFi, FreeS, FreeSe, 
-export { FullCodesInCategory,  Cookie, Cart, Header, Hero, CodesCardsRow, ByCategories, About, Divider, Price, GrayProductsRow, CallToAction, Instruction, Features, MemoryCards, Faq, Newsletter, Footer };
+export { FullCodesInCategory,  Cookie, Blog, Cart, Header, Hero, CodesCardsRow, ByCategories, About, Divider, Price, GrayProductsRow, CallToAction, Instruction, Features, MemoryCards, Faq, Newsletter, Footer };

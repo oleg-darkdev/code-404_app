@@ -1,5 +1,6 @@
 const promoTypesOfCodes = {
-  title: 'Codes that you will learn.',
+  // Codes that you will learn.
+  title: 'Kody, które poznasz.',
   link: 'codes',
   promo: [
     {

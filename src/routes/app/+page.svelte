@@ -9,7 +9,7 @@
   <title>CODE 404 - app</title>
 </svelte:head>
 
-<ByCategories />
+<!-- <ByCategories /> -->
 
 <!--
 
